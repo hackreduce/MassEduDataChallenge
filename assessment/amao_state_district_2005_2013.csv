@@ -1,0 +1,516 @@
+SORT_ORDER,ORG_NAME,ORG_CODE,FY_CODE,AMAO_PRGS_ACHIEVED,AMAO_ATTN_ACHIEVED,CUMULATIVE_PPI
+2,Acton,00020000,2012,Yes,Yes,Yes
+2,Acton,00020000,2013,No,Yes,Yes
+2,Agawam,00050000,2013,Yes,Yes,Yes
+2,Agawam,00050000,2012,No,Yes,No
+2,Amherst,00080000,2012,Yes,Yes,No
+2,Amherst,00080000,2010,Yes,Yes,
+2,Amherst,00080000,2013,No,Yes,No
+2,Amherst,00080000,2006,Yes,Yes,
+2,Amherst,00080000,2005,Yes,Yes,
+2,Amherst,00080000,2009,Yes,Yes,
+2,Amherst,00080000,2011,Yes,Yes,
+2,Amherst,00080000,2007,Yes,Yes,
+2,Amherst,00080000,2008,Yes,Yes,
+2,Andover,00090000,2013,Yes,Yes,Yes
+2,Andover,00090000,2012,Yes,Yes,Yes
+2,Arlington,00100000,2013,No,Yes,No
+2,Arlington,00100000,2010,Yes,Yes,
+2,Arlington,00100000,2012,Yes,Yes,No
+2,Arlington,00100000,2006,Yes,Yes,
+2,Arlington,00100000,2011,Yes,Yes,
+2,Arlington,00100000,2008,Yes,Yes,
+2,Arlington,00100000,2007,Yes,Yes,
+2,Arlington,00100000,2009,Yes,Yes,
+2,Arlington,00100000,2005,Yes,Yes,
+2,Attleboro,00160000,2010,No,Yes,
+2,Attleboro,00160000,2012,Yes,Yes,Yes
+2,Attleboro,00160000,2013,No,No,Yes
+2,Attleboro,00160000,2005,Yes,Yes,
+2,Attleboro,00160000,2008,Yes,Yes,
+2,Attleboro,00160000,2006,Yes,Yes,
+2,Attleboro,00160000,2009,Yes,Yes,
+2,Attleboro,00160000,2011,Yes,Yes,
+2,Attleboro,00160000,2007,Yes,Yes,
+2,Barnstable,00200000,2010,Yes,Yes,
+2,Barnstable,00200000,2013,Yes,No,No
+2,Barnstable,00200000,2012,Yes,Yes,No
+2,Barnstable,00200000,2011,Yes,Yes,
+2,Barnstable,00200000,2008,Yes,Yes,
+2,Barnstable,00200000,2006,Yes,Yes,
+2,Barnstable,00200000,2009,Yes,Yes,
+2,Barnstable,00200000,2005,Yes,Yes,
+2,Barnstable,00200000,2007,No,Yes,
+2,Belmont,00260000,2013,Yes,Yes,Yes
+2,Belmont,00260000,2012,Yes,Yes,No
+2,Belmont,00260000,2010,Yes,Yes,
+2,Belmont,00260000,2011,Yes,Yes,
+2,Belmont,00260000,2006,Yes,Yes,
+2,Belmont,00260000,2009,Yes,Yes,
+2,Boston,00350000,2012,No,Yes,No
+2,Boston,00350000,2013,No,Yes,No
+2,Boston,00350000,2010,No,No,
+2,Boston,00350000,2009,Yes,No,
+2,Boston,00350000,2005,No,No,
+2,Boston,00350000,2006,Yes,Yes,
+2,Boston,00350000,2008,Yes,Yes,
+2,Boston,00350000,2007,Yes,Yes,
+2,Boston,00350000,2011,No,Yes,
+2,Braintree,00400000,2012,Yes,Yes,No
+2,Braintree,00400000,2013,Yes,Yes,Yes
+2,Braintree,00400000,2011,Yes,Yes,
+2,Brockton,00440000,2012,Yes,No,No
+2,Brockton,00440000,2013,No,No,No
+2,Brockton,00440000,2010,No,No,
+2,Brockton,00440000,2006,Yes,Yes,
+2,Brockton,00440000,2011,No,No,
+2,Brockton,00440000,2007,Yes,Yes,
+2,Brockton,00440000,2009,Yes,Yes,
+2,Brockton,00440000,2008,Yes,Yes,
+2,Brockton,00440000,2005,Yes,No,
+2,Brookline,00460000,2013,Yes,Yes,Yes
+2,Brookline,00460000,2012,Yes,Yes,Yes
+2,Brookline,00460000,2010,Yes,Yes,
+2,Brookline,00460000,2008,Yes,Yes,
+2,Brookline,00460000,2011,Yes,Yes,
+2,Brookline,00460000,2009,Yes,Yes,
+2,Brookline,00460000,2005,Yes,Yes,
+2,Brookline,00460000,2007,Yes,Yes,
+2,Brookline,00460000,2006,Yes,Yes,
+2,Cambridge,00490000,2012,Yes,No,No
+2,Cambridge,00490000,2013,Yes,No,No
+2,Cambridge,00490000,2010,Yes,No,
+2,Cambridge,00490000,2007,Yes,Yes,
+2,Cambridge,00490000,2005,Yes,No,
+2,Cambridge,00490000,2008,Yes,Yes,
+2,Cambridge,00490000,2011,No,No,
+2,Cambridge,00490000,2006,Yes,Yes,
+2,Cambridge,00490000,2009,Yes,Yes,
+2,Chelmsford,00560000,2013,Yes,Yes,Yes
+2,Chelsea,00570000,2010,No,No,
+2,Chelsea,00570000,2012,Yes,No,No
+2,Chelsea,00570000,2013,No,No,No
+2,Chelsea,00570000,2008,No,Yes,
+2,Chelsea,00570000,2006,Yes,Yes,
+2,Chelsea,00570000,2007,Yes,Yes,
+2,Chelsea,00570000,2005,Yes,No,
+2,Chelsea,00570000,2011,Yes,No,
+2,Chelsea,00570000,2009,Yes,No,
+2,Chicopee,00610000,2010,Yes,Yes,
+2,Chicopee,00610000,2012,Yes,Yes,No
+2,Chicopee,00610000,2013,No,Yes,No
+2,Chicopee,00610000,2006,Yes,Yes,
+2,Chicopee,00610000,2005,Yes,Yes,
+2,Chicopee,00610000,2011,Yes,Yes,
+2,Chicopee,00610000,2009,Yes,Yes,
+2,Chicopee,00610000,2008,Yes,Yes,
+2,Chicopee,00610000,2007,Yes,No,
+2,Clinton,00640000,2013,No,No,No
+2,Clinton,00640000,2012,No,Yes,No
+2,Clinton,00640000,2010,Yes,Yes,
+2,Clinton,00640000,2009,Yes,Yes,
+2,Clinton,00640000,2011,Yes,Yes,
+2,Clinton,00640000,2005,Yes,Yes,
+2,Clinton,00640000,2006,Yes,Yes,
+2,"Community Day Charter Public (District)",04400000,2012,Yes,Yes,Yes
+2,"Community Day Charter Public School - Prospect (District)",04400000,2013,Yes,Yes,Yes
+2,Dedham,00730000,2013,No,Yes,No
+2,Dedham,00730000,2012,Yes,Yes,No
+2,Dedham,00730000,2007,Yes,Yes,
+2,Dedham,00730000,2005,Yes,Yes,
+2,Dedham,00730000,2009,Yes,Yes,
+2,Dedham,00730000,2008,Yes,Yes,
+2,Dedham,00730000,2006,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2011,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2009,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2013,No,No,No
+2,Dennis-Yarmouth,06450000,2012,No,Yes,No
+2,Dennis-Yarmouth,06450000,2006,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2008,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2007,Yes,Yes,
+2,Dennis-Yarmouth,06450000,2005,Yes,No,
+2,Dennis-Yarmouth,06450000,2010,No,Yes,
+2,Everett,00930000,2013,Yes,No,No
+2,Everett,00930000,2010,Yes,Yes,
+2,Everett,00930000,2012,Yes,Yes,No
+2,Everett,00930000,2006,Yes,Yes,
+2,Everett,00930000,2009,Yes,Yes,
+2,Everett,00930000,2007,Yes,Yes,
+2,Everett,00930000,2005,Yes,No,
+2,Everett,00930000,2011,Yes,Yes,
+2,Everett,00930000,2008,Yes,Yes,
+2,"Fall River",00950000,2010,No,No,
+2,"Fall River",00950000,2012,No,No,No
+2,"Fall River",00950000,2013,No,No,No
+2,"Fall River",00950000,2007,No,No,
+2,"Fall River",00950000,2008,Yes,Yes,
+2,"Fall River",00950000,2005,Yes,No,
+2,"Fall River",00950000,2011,No,No,
+2,"Fall River",00950000,2006,Yes,Yes,
+2,"Fall River",00950000,2009,Yes,Yes,
+2,Fitchburg,00970000,2010,Yes,Yes,
+2,Fitchburg,00970000,2012,No,No,No
+2,Fitchburg,00970000,2013,No,No,No
+2,Fitchburg,00970000,2008,Yes,Yes,
+2,Fitchburg,00970000,2006,Yes,Yes,
+2,Fitchburg,00970000,2007,Yes,Yes,
+2,Fitchburg,00970000,2005,Yes,No,
+2,Fitchburg,00970000,2011,No,No,
+2,Fitchburg,00970000,2009,Yes,Yes,
+2,Framingham,01000000,2013,Yes,No,No
+2,Framingham,01000000,2012,Yes,No,No
+2,Framingham,01000000,2010,Yes,Yes,
+2,Framingham,01000000,2005,Yes,No,
+2,Framingham,01000000,2008,Yes,Yes,
+2,Framingham,01000000,2009,Yes,Yes,
+2,Framingham,01000000,2011,Yes,No,
+2,Framingham,01000000,2007,Yes,Yes,
+2,Framingham,01000000,2006,Yes,Yes,
+2,Haverhill,01280000,2010,No,No,
+2,Haverhill,01280000,2012,No,No,No
+2,Haverhill,01280000,2013,No,No,No
+2,Haverhill,01280000,2007,Yes,Yes,
+2,Haverhill,01280000,2008,No,Yes,
+2,Haverhill,01280000,2005,Yes,No,
+2,Haverhill,01280000,2011,Yes,No,
+2,Haverhill,01280000,2006,Yes,No,
+2,Haverhill,01280000,2009,Yes,Yes,
+2,Holyoke,01370000,2010,No,No,
+2,Holyoke,01370000,2012,No,No,No
+2,Holyoke,01370000,2013,No,No,No
+2,Holyoke,01370000,2008,No,No,
+2,Holyoke,01370000,2006,No,No,
+2,Holyoke,01370000,2007,No,No,
+2,Holyoke,01370000,2005,No,No,
+2,Holyoke,01370000,2011,No,No,
+2,Holyoke,01370000,2009,No,No,
+2,Hudson,01410000,2013,No,Yes,No
+2,Hudson,01410000,2012,Yes,Yes,Yes
+2,Hudson,01410000,2010,Yes,Yes,
+2,Hudson,01410000,2005,Yes,No,
+2,Hudson,01410000,2008,Yes,Yes,
+2,Hudson,01410000,2009,Yes,Yes,
+2,Hudson,01410000,2011,No,Yes,
+2,Hudson,01410000,2007,Yes,Yes,
+2,Hudson,01410000,2006,Yes,Yes,
+2,Lawrence,01490000,2012,No,No,No
+2,Lawrence,01490000,2010,No,No,
+2,Lawrence,01490000,2013,Yes,No,No
+2,"Lawrence Family Development Charter (District)",04540000,2009,Yes,No,
+2,"Lawrence Family Development Charter (District)",04540000,2011,No,No,
+2,"Lawrence Family Development Charter (District)",04540000,2008,Yes,Yes,
+2,"Lawrence Family Development Charter",04540000,2005,Yes,Yes,
+2,"Lawrence Family Development Charter",04540000,2006,Yes,Yes,
+2,"Lawrence Family Development Charter (District)",04540000,2007,Yes,Yes,
+2,"Lawrence Family Development Charter (District)",04540000,2013,Yes,No,Yes
+2,"Lawrence Family Development Charter (District)",04540000,2012,Yes,No,Yes
+2,"Lawrence Family Development Charter (District)",04540000,2010,Yes,Yes,
+2,Lawrence,01490000,2007,No,No,
+2,Lawrence,01490000,2006,No,No,
+2,Lawrence,01490000,2005,No,No,
+2,Lawrence,01490000,2008,Yes,Yes,
+2,Lawrence,01490000,2011,No,No,
+2,Lawrence,01490000,2009,No,Yes,
+2,Leominster,01530000,2013,No,Yes,No
+2,Leominster,01530000,2010,No,No,
+2,Leominster,01530000,2012,Yes,Yes,No
+2,Leominster,01530000,2006,Yes,No,
+2,Leominster,01530000,2005,Yes,No,
+2,Leominster,01530000,2007,Yes,Yes,
+2,Leominster,01530000,2011,No,No,
+2,Leominster,01530000,2009,No,Yes,
+2,Leominster,01530000,2008,Yes,Yes,
+2,Lexington,01550000,2010,Yes,Yes,
+2,Lexington,01550000,2012,Yes,Yes,Yes
+2,Lexington,01550000,2013,Yes,Yes,Yes
+2,Lexington,01550000,2005,Yes,Yes,
+2,Lexington,01550000,2006,Yes,Yes,
+2,Lexington,01550000,2011,Yes,Yes,
+2,Lexington,01550000,2007,Yes,Yes,
+2,Lexington,01550000,2008,Yes,Yes,
+2,Lexington,01550000,2009,Yes,Yes,
+2,Lowell,01600000,2010,No,Yes,
+2,Lowell,01600000,2012,No,Yes,No
+2,Lowell,01600000,2013,No,No,No
+2,"Lowell Community Charter Public (District)",04560000,2006,Yes,No,
+2,"Lowell Community Charter Public (District)",04560000,2008,Yes,Yes,
+2,"Lowell Community Charter Public (District)",04560000,2007,Yes,Yes,
+2,"Lowell Community Charter Public (District)",04560000,2005,Yes,No,
+2,"Lowell Community Charter Public (District)",04560000,2009,Yes,Yes,
+2,"Lowell Community Charter Public (District)",04560000,2011,No,Yes,
+2,"Lowell Community Charter Public (District)",04560000,2013,No,Yes,Yes
+2,"Lowell Community Charter Public (District)",04560000,2012,Yes,Yes,Yes
+2,"Lowell Community Charter Public (District)",04560000,2010,Yes,Yes,
+2,Lowell,01600000,2008,Yes,Yes,
+2,Lowell,01600000,2011,No,Yes,
+2,Lowell,01600000,2007,Yes,Yes,
+2,Lowell,01600000,2005,Yes,Yes,
+2,Lowell,01600000,2006,Yes,No,
+2,Lowell,01600000,2009,Yes,Yes,
+2,Lynn,01630000,2010,No,Yes,
+2,Lynn,01630000,2012,Yes,No,No
+2,Lynn,01630000,2013,No,No,No
+2,Lynn,01630000,2006,Yes,Yes,
+2,Lynn,01630000,2007,Yes,Yes,
+2,Lynn,01630000,2009,Yes,Yes,
+2,Lynn,01630000,2011,No,No,
+2,Lynn,01630000,2008,Yes,Yes,
+2,Lynn,01630000,2005,Yes,No,
+2,Malden,01650000,2012,Yes,Yes,No
+2,Malden,01650000,2013,No,Yes,No
+2,Malden,01650000,2010,Yes,Yes,
+2,Malden,01650000,2006,Yes,Yes,
+2,Malden,01650000,2008,Yes,Yes,
+2,Malden,01650000,2005,Yes,Yes,
+2,Malden,01650000,2007,Yes,Yes,
+2,Malden,01650000,2009,Yes,Yes,
+2,Malden,01650000,2011,Yes,Yes,
+2,Marlborough,01700000,2010,Yes,Yes,
+2,Marlborough,01700000,2013,No,No,No
+2,Marlborough,01700000,2012,Yes,Yes,No
+2,Marlborough,01700000,2011,Yes,Yes,
+2,Marlborough,01700000,2005,Yes,Yes,
+2,Marlborough,01700000,2007,Yes,Yes,
+2,Marlborough,01700000,2009,Yes,Yes,
+2,Marlborough,01700000,2006,Yes,Yes,
+2,Marlborough,01700000,2008,Yes,Yes,
+2,"Marthas Vineyard",07000000,2008,Yes,Yes,
+2,Medford,01760000,2010,Yes,Yes,
+2,Medford,01760000,2013,Yes,Yes,No
+2,Medford,01760000,2012,Yes,Yes,Yes
+2,Medford,01760000,2008,Yes,No,
+2,Medford,01760000,2009,Yes,Yes,
+2,Medford,01760000,2005,Yes,Yes,
+2,Medford,01760000,2006,Yes,Yes,
+2,Medford,01760000,2011,Yes,Yes,
+2,Medford,01760000,2007,Yes,Yes,
+2,Methuen,01810000,2013,No,No,No
+2,Methuen,01810000,2012,Yes,No,No
+2,Methuen,01810000,2010,No,No,
+2,Methuen,01810000,2007,Yes,Yes,
+2,Methuen,01810000,2009,Yes,Yes,
+2,Methuen,01810000,2008,Yes,Yes,
+2,Methuen,01810000,2006,Yes,Yes,
+2,Methuen,01810000,2005,Yes,No,
+2,Methuen,01810000,2011,Yes,No,
+2,Milford,01850000,2013,Yes,Yes,Yes
+2,Milford,01850000,2010,Yes,Yes,
+2,Milford,01850000,2012,Yes,Yes,No
+2,Milford,01850000,2009,Yes,Yes,
+2,Milford,01850000,2006,Yes,Yes,
+2,Milford,01850000,2007,Yes,Yes,
+2,Milford,01850000,2008,Yes,Yes,
+2,Milford,01850000,2005,Yes,No,
+2,Milford,01850000,2011,Yes,Yes,
+2,"New Bedford",02010000,2013,Yes,No,No
+2,"New Bedford",02010000,2012,No,No,No
+2,"New Bedford",02010000,2010,No,No,
+2,"New Bedford",02010000,2009,No,No,
+2,"New Bedford",02010000,2005,Yes,No,
+2,"New Bedford",02010000,2007,No,No,
+2,"New Bedford",02010000,2011,No,No,
+2,"New Bedford",02010000,2006,Yes,Yes,
+2,"New Bedford",02010000,2008,No,No,
+2,Newton,02070000,2010,Yes,Yes,
+2,Newton,02070000,2013,Yes,Yes,Yes
+2,Newton,02070000,2012,Yes,Yes,Yes
+2,Newton,02070000,2008,Yes,Yes,
+2,Newton,02070000,2007,Yes,Yes,
+2,Newton,02070000,2009,Yes,Yes,
+2,Newton,02070000,2011,Yes,Yes,
+2,Newton,02070000,2006,Yes,Yes,
+2,Newton,02070000,2005,Yes,Yes,
+2,Norwood,02200000,2012,Yes,Yes,Yes
+2,Norwood,02200000,2010,Yes,Yes,
+2,Norwood,02200000,2013,Yes,Yes,No
+2,Norwood,02200000,2008,Yes,Yes,
+2,Norwood,02200000,2006,Yes,No,
+2,Norwood,02200000,2011,Yes,Yes,
+2,Norwood,02200000,2007,Yes,Yes,
+2,Norwood,02200000,2009,Yes,Yes,
+2,Norwood,02200000,2005,Yes,Yes,
+2,Peabody,02290000,2013,No,Yes,No
+2,Peabody,02290000,2012,Yes,Yes,No
+2,Peabody,02290000,2010,Yes,Yes,
+2,Peabody,02290000,2006,Yes,Yes,
+2,Peabody,02290000,2011,Yes,Yes,
+2,Peabody,02290000,2007,Yes,Yes,
+2,Peabody,02290000,2005,No,No,
+2,Peabody,02290000,2008,Yes,Yes,
+2,Peabody,02290000,2009,Yes,Yes,
+2,Pittsfield,02360000,2010,Yes,Yes,
+2,Pittsfield,02360000,2013,Yes,Yes,No
+2,Pittsfield,02360000,2012,No,Yes,No
+2,Pittsfield,02360000,2009,Yes,Yes,
+2,Pittsfield,02360000,2005,Yes,Yes,
+2,Pittsfield,02360000,2007,No,No,
+2,Pittsfield,02360000,2011,No,Yes,
+2,Pittsfield,02360000,2006,Yes,Yes,
+2,Pittsfield,02360000,2008,Yes,Yes,
+2,Quincy,02430000,2013,Yes,Yes,No
+2,Quincy,02430000,2012,Yes,Yes,No
+2,Quincy,02430000,2010,Yes,Yes,
+2,Quincy,02430000,2009,Yes,Yes,
+2,Quincy,02430000,2008,Yes,Yes,
+2,Quincy,02430000,2005,Yes,Yes,
+2,Quincy,02430000,2007,Yes,Yes,
+2,Quincy,02430000,2011,Yes,Yes,
+2,Quincy,02430000,2006,Yes,Yes,
+2,Randolph,02440000,2013,Yes,Yes,No
+2,Randolph,02440000,2012,Yes,Yes,No
+2,Randolph,02440000,2010,Yes,Yes,
+2,Randolph,02440000,2011,Yes,Yes,
+2,Randolph,02440000,2007,Yes,No,
+2,Randolph,02440000,2005,Yes,Yes,
+2,Randolph,02440000,2006,Yes,Yes,
+2,Randolph,02440000,2008,Yes,Yes,
+2,Randolph,02440000,2009,Yes,Yes,
+2,Revere,02480000,2010,Yes,Yes,
+2,Revere,02480000,2013,Yes,No,No
+2,Revere,02480000,2012,Yes,Yes,No
+2,Revere,02480000,2009,Yes,Yes,
+2,Revere,02480000,2007,Yes,Yes,
+2,Revere,02480000,2011,Yes,Yes,
+2,Revere,02480000,2006,Yes,Yes,
+2,Revere,02480000,2005,Yes,No,
+2,Revere,02480000,2008,Yes,Yes,
+2,Salem,02580000,2013,No,No,No
+2,Salem,02580000,2010,No,No,
+2,Salem,02580000,2012,No,No,No
+2,Salem,02580000,2011,No,No,
+2,Salem,02580000,2007,No,No,
+2,Salem,02580000,2005,Yes,No,
+2,Salem,02580000,2009,No,No,
+2,Salem,02580000,2006,Yes,Yes,
+2,Salem,02580000,2008,Yes,Yes,
+2,"Seven Hills Charter Public (District)",04860000,2013,Yes,Yes,Yes
+2,Shrewsbury,02710000,2010,Yes,Yes,
+2,Shrewsbury,02710000,2012,Yes,Yes,Yes
+2,Shrewsbury,02710000,2013,Yes,Yes,Yes
+2,Shrewsbury,02710000,2009,Yes,Yes,
+2,Shrewsbury,02710000,2011,Yes,Yes,
+2,Shrewsbury,02710000,2007,Yes,Yes,
+2,Shrewsbury,02710000,2005,--,--,
+2,Shrewsbury,02710000,2008,Yes,Yes,
+2,Somerville,02740000,2013,No,No,No
+2,Somerville,02740000,2010,Yes,No,
+2,Somerville,02740000,2012,Yes,No,No
+2,Somerville,02740000,2009,Yes,Yes,
+2,Somerville,02740000,2007,Yes,Yes,
+2,Somerville,02740000,2011,Yes,Yes,
+2,Somerville,02740000,2006,Yes,Yes,
+2,Somerville,02740000,2005,Yes,No,
+2,Somerville,02740000,2008,Yes,Yes,
+2,Southbridge,02770000,2013,No,No,No
+2,Southbridge,02770000,2012,No,No,No
+2,Southbridge,02770000,2010,No,No,
+2,Southbridge,02770000,2011,No,No,
+2,Southbridge,02770000,2005,Yes,No,
+2,Southbridge,02770000,2007,No,No,
+2,Southbridge,02770000,2006,No,No,
+2,Southbridge,02770000,2008,No,No,
+2,Southbridge,02770000,2009,Yes,Yes,
+2,Springfield,02810000,2012,No,No,No
+2,Springfield,02810000,2013,No,No,No
+2,Springfield,02810000,2010,No,No,
+2,Springfield,02810000,2007,No,No,
+2,Springfield,02810000,2009,No,No,
+2,Springfield,02810000,2008,No,No,
+2,Springfield,02810000,2006,No,No,
+2,Springfield,02810000,2005,Yes,No,
+2,Springfield,02810000,2011,No,No,
+2,Stoughton,02850000,2010,Yes,Yes,
+2,Stoughton,02850000,2013,No,Yes,No
+2,Stoughton,02850000,2012,Yes,Yes,No
+2,Stoughton,02850000,2008,Yes,Yes,
+2,Stoughton,02850000,2011,Yes,Yes,
+2,Stoughton,02850000,2009,Yes,Yes,
+2,Taunton,02930000,2013,No,No,No
+2,Taunton,02930000,2010,Yes,Yes,
+2,Taunton,02930000,2012,Yes,Yes,No
+2,Taunton,02930000,2005,Yes,Yes,
+2,Taunton,02930000,2007,Yes,Yes,
+2,Taunton,02930000,2006,Yes,Yes,
+2,Taunton,02930000,2011,No,Yes,
+2,Taunton,02930000,2009,Yes,Yes,
+2,Taunton,02930000,2008,Yes,Yes,
+2,"UP Academy Charter School of Boston (District)",04800000,2013,Yes,No,Yes
+2,Waltham,03080000,2010,Yes,Yes,
+2,Waltham,03080000,2012,Yes,No,No
+2,Waltham,03080000,2013,No,No,No
+2,Waltham,03080000,2009,Yes,Yes,
+2,Waltham,03080000,2011,No,No,
+2,Waltham,03080000,2007,Yes,Yes,
+2,Waltham,03080000,2005,Yes,No,
+2,Waltham,03080000,2006,Yes,Yes,
+2,Waltham,03080000,2008,Yes,Yes,
+2,Watertown,03140000,2012,Yes,Yes,No
+2,Watertown,03140000,2013,Yes,Yes,No
+2,Watertown,03140000,2010,Yes,Yes,
+2,Watertown,03140000,2007,Yes,Yes,
+2,Watertown,03140000,2009,Yes,Yes,
+2,Watertown,03140000,2011,Yes,Yes,
+2,Watertown,03140000,2006,Yes,Yes,
+2,Watertown,03140000,2008,Yes,Yes,
+2,Watertown,03140000,2005,Yes,Yes,
+2,"West Springfield",03320000,2010,Yes,No,
+2,"West Springfield",03320000,2013,Yes,No,No
+2,"West Springfield",03320000,2012,Yes,Yes,No
+2,"West Springfield",03320000,2008,Yes,Yes,
+2,"West Springfield",03320000,2009,Yes,Yes,
+2,"West Springfield",03320000,2011,Yes,No,
+2,"West Springfield",03320000,2005,Yes,No,
+2,"West Springfield",03320000,2006,Yes,Yes,
+2,"West Springfield",03320000,2007,Yes,Yes,
+2,Westborough,03210000,2010,Yes,Yes,
+2,Westborough,03210000,2013,Yes,Yes,Yes
+2,Westborough,03210000,2012,Yes,Yes,Yes
+2,Westborough,03210000,2009,Yes,Yes,
+2,Westborough,03210000,2008,Yes,Yes,
+2,Westborough,03210000,2006,Yes,Yes,
+2,Westborough,03210000,2005,Yes,Yes,
+2,Westborough,03210000,2007,Yes,Yes,
+2,Westborough,03210000,2011,Yes,Yes,
+2,Westfield,03250000,2013,No,No,No
+2,Westfield,03250000,2012,Yes,Yes,No
+2,Westfield,03250000,2010,Yes,No,
+2,Westfield,03250000,2006,Yes,No,
+2,Westfield,03250000,2008,Yes,Yes,
+2,Westfield,03250000,2009,Yes,Yes,
+2,Westfield,03250000,2007,Yes,Yes,
+2,Westfield,03250000,2011,Yes,No,
+2,Westfield,03250000,2005,Yes,No,
+2,Weymouth,03360000,2013,No,Yes,No
+2,Weymouth,03360000,2012,Yes,Yes,No
+2,Weymouth,03360000,2010,Yes,Yes,
+2,Weymouth,03360000,2011,Yes,Yes,
+2,Winchester,03440000,2012,Yes,Yes,Yes
+2,Winchester,03440000,2013,Yes,Yes,Yes
+2,Winchester,03440000,2011,Yes,Yes,
+2,Woburn,03470000,2013,Yes,Yes,No
+2,Woburn,03470000,2012,Yes,Yes,No
+2,Woburn,03470000,2010,Yes,Yes,
+2,Woburn,03470000,2005,Yes,Yes,
+2,Woburn,03470000,2007,Yes,Yes,
+2,Woburn,03470000,2011,Yes,Yes,
+2,Woburn,03470000,2006,Yes,Yes,
+2,Woburn,03470000,2009,Yes,Yes,
+2,Woburn,03470000,2008,Yes,Yes,
+2,Worcester,03480000,2012,No,Yes,No
+2,Worcester,03480000,2010,Yes,Yes,
+2,Worcester,03480000,2013,No,Yes,No
+2,Worcester,03480000,2009,Yes,Yes,
+2,Worcester,03480000,2005,No,No,
+2,Worcester,03480000,2006,Yes,Yes,
+2,Worcester,03480000,2008,No,Yes,
+2,Worcester,03480000,2011,No,Yes,
+2,Worcester,03480000,2007,No,No,
+1,"State Total",00000000,2011,No,Yes,
+1,"State Totals",00000000,2005,Yes,Yes,
+1,"State Totals",00000000,2007,Yes,Yes,
+1,"State Totals",00000000,2006,Yes,Yes,
+1,"State Totals",00000000,2013,No,Yes,No
+1,"State Total",00000000,2012,Yes,Yes,No
+1,"State Totals",00000000,2010,Yes,Yes,
+1,"State Totals",00000000,2009,Yes,Yes,
+1,"State Totals",00000000,2008,Yes,Yes,

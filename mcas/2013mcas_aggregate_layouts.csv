@@ -1,0 +1,23 @@
+"2013 Item Analysis File Layout",
+,
+,
+Field,Description
+adminyear,"Test administration year ('2013' for Spring 2013 tests)"
+Org_code,"Organization Code ('00000000' for state, 'xxxx0000' for districts, and 'xxxxxxxx' for schools)"
+DistrictName,"District Name"
+SchoolName,"School Name"
+Grade,"Grade of test: 03-10, HS (grades 9 and 10 science only)"
+Subject,"SCI = Science & Technology/Engineering (grades 5, 8)"
+,"BIO = Biology (grades 9 and 10)"
+,"CHE = Chemistry (grades 9 and 10)"
+,"PHY = Introductory Physics (grades 9 and 10)"
+,"TEC = Technology/Engineering (grades 9 and 10)"
+tested,"Number of students who took the standard test "
+wptopdev,"Writing prompt, Topic Development average score (grades 4, 7, 10)"
+wpcompconv,"Writing prompt, Standard English Conventions average score (grades 4, 7, 10)"
+"items 1-45","Percent of students answering the item correctly (multiple choice)"
+,"Average item score (short answer, short response, or open response)"
+,
+"Note 1: Data are suppressed if the number of students tested is fewer than 10. ",
+,
+"Note 2: School-level results include only students enrolled in the same school since October of the school year.",

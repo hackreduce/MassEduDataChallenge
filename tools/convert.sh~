@@ -1,0 +1,3 @@
+#!/bin/bash
+
+for f in *.csv; do ssconvert "$f" "${f%.csv}.xlsx"; done

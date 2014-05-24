@@ -1,0 +1,58 @@
+"2011 Spring MCAS Performance File Layout",
+,
+,
+Field,Description
+Year,"Test administration year ('2011' for Spring 2011 tests)"
+Org_code,"Organization Code ('00000000' for state, 'xxxx0000' for districts, and 'xxxxxxxx' for schools)"
+DistrictName,"District Name"
+SchoolName,"School Name"
+Grade,"Grade of test"
+Group,"AYP or other subgroup"
+eadv_num,"Number of students whose performance level was ""Advanced"" in ELA  "
+eadv_per,"Percent of students whose performance level was ""Advanced"" in ELA (rounded)"
+epro_num,"Number of students whose performance level was ""Proficient"" in ELA  "
+epro_per,"Percent of students whose performance level was ""Proficient"" in ELA (rounded)"
+eni_num,"Number of students whose performance level was ""Needs Improvement"" in ELA  "
+eni_per,"Percent of students whose performance level was ""Needs Improvement"" in ELA (rounded)"
+ewf_num,"Number of students whose performance level was ""Warning"" or ""Failing"" in ELA  "
+ewf_per,"Percent of students whose performance level was ""Warning"" or ""Failing"" in ELA (rounded)"
+madv_num,"Number of students whose performance level was ""Advanced"" in Mathematics  "
+madv_per,"Percent of students whose performance level was ""Advanced"" in Mathematics (rounded)"
+mpro_num,"Number of students whose performance level was ""Proficient"" in Mathematics  "
+mpro_per,"Percent of students whose performance level was ""Proficient"" in Mathematics (rounded)"
+mni_num,"Number of students whose performance level was ""Needs Improvement"" in Mathematics  "
+mni_per,"Percent of students whose performance level was ""Needs Improvement"" in Mathematics (rounded)"
+mwf_num,"Number of students whose performance level was ""Warning"" or ""Failing"" in Mathematics  "
+mwf_per,"Percent of students whose performance level was ""Warning"" or ""Failing"" in Mathematics (rounded)"
+sadv_num,"Number of students whose performance level was ""Advanced"" in STE  "
+sadv_per,"Percent of students whose performance level was ""Advanced"" in STE (rounded)"
+spro_num,"Number of students whose performance level was ""Proficient"" in STE  "
+spro_per,"Percent of students whose performance level was ""Proficient"" in STE (rounded)"
+sni_num,"Number of students whose performance level was ""Needs Improvement"" in STE  "
+sni_per,"Percent of students whose performance level was ""Needs Improvement"" in STE (rounded)"
+swf_num,"Number of students whose performance level was ""Warning"" or ""Failing"" in STE  "
+swf_per,"Percent of students whose performance level was ""Warning"" or ""Failing"" in STE (rounded)"
+etotal,"Number of students included in 2010 ELA performance summary results"
+mtotal,"Number of students included in 2010 Mathematics performance summary results"
+stotal,"Number of students included in 2010 STE performance summary results"
+eayp_part_rate,"ELA Adequate Yearly Progress (AYP) Participation Rate  "
+mayp_part_rate,"Mathematics Adequate Yearly Progress (AYP) Participation Rate  "
+sayp_part_rate,"STE Adequate Yearly Progress (AYP) Participation Rate  "
+ecpi,"ELA Composite Performance Index (CPI)"
+mcpi,"Mathematics Composite Performance Index (CPI)"
+scpi,"Science and Technology/Engineering (STE) Composite Performance Index (CPI)"
+esgp,"ELA median Student Growth Percentile (SGP)"
+esgp_incl,"Number of students included in ELA SGP calculations"
+msgp,"Mathematics median Student Growth Percentile (SGP)"
+msgp_incl,"Number of students included in Mathematics SGP calculations "
+,
+"Note 1: Performance level results are suppressed if the number of students included is fewer than 10. Student growth percentiles are suppressed if the number of students included in growth percentile calculations is fewer than 20. ",
+,
+"Note 2: School-level results (for all tests except grade 10 Science) include only students enrolled in the same school since October 2010.",
+,
+"Note 3: Grade 10 Science results represent the highest performance level attained by class of 2013 students in grades 9 or 10 in any of the four subjects (Biology, Chemistry, Introductory Physics, and Technology/Engineering). In addition, only students enrolled in Massachusetts since October 2009 are included in state-level results; only students enrolled in the same district since October 2009 are included in district-level results; only students enrolled in the same school since October 2009 are included in school-level results.",
+,
+"Additional Resources",
+MCAS:,http://www.doemass.org/mcas
+"CPI and AYP:",http://profiles.doe.mass.edu/ayp/ayp_report/glossary2011.html
+Growth:,http://www.doemass.org/mcas/growth/faq.html

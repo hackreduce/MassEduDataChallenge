@@ -1,0 +1,804 @@
+FY_CODE,ORG_CODE,ORG_NAME,ARH_SCH_PERCENTILE,ARH_SCH_TYPE,ARH_LEVEL,ARH_LEVEL_REASON_PERF,CUMPPI_ALL,CUMPPI_HN
+2012,00010000,Abington,,,"Level 2","One or more schools in the district classified into Level 2",61,54
+2012,00020000,Acton,,,"Level 2","One or more schools in the district classified into Level 2",92,72
+2012,00030000,Acushnet,,,"Level 2","One or more schools in the district classified into Level 2",59,59
+2012,00050000,Agawam,,,"Level 2","One or more schools in the district classified into Level 2",54,63
+2012,00070000,Amesbury,,,"Level 2","One or more schools in the district classified into Level 2",68,60
+2012,00080000,Amherst,,,"Level 2","One or more schools in the district classified into Level 2",53,44
+2012,00090000,Andover,,,"Level 2","One or more schools in the district classified into Level 2",90,63
+2012,00100000,Arlington,,,"Level 2","One or more schools in the district classified into Level 2",72,57
+2012,00140000,Ashland,,,"Level 2","One or more schools in the district classified into Level 2",76,64
+2012,00160000,Attleboro,,,"Level 2","One or more schools in the district classified into Level 2",85,72
+2012,00170000,Auburn,,,"Level 2","One or more schools in the district classified into Level 2",66,64
+2012,00180000,Avon,,,"Level 2","One or more schools in the district classified into Level 2",88,88
+2012,00200000,Barnstable,,,"Level 2","One or more schools in the district classified into Level 2",60,58
+2012,00230000,Bedford,,,"Level 2","One or more schools in the district classified into Level 2",67,53
+2012,00240000,Belchertown,,,"Level 2","One or more schools in the district classified into Level 2",70,61
+2012,00250000,Bellingham,,,"Level 2","One or more schools in the district classified into Level 2",55,49
+2012,00260000,Belmont,,,"Level 2","One or more schools in the district classified into Level 2",92,71
+2012,00270000,Berkley,,,"Level 2","One or more schools in the district classified into Level 2",61,48
+2012,00280000,Berlin,52,,"Level 2","Not meeting gap narrowing goals",66,69
+2012,00300000,Beverly,,,"Level 3","One or more schools in the district classified into Level 3",74,57
+2012,00310000,Billerica,,,"Level 2","One or more schools in the district classified into Level 2",52,42
+2012,00350000,Boston,,,"Level 4","One or more schools in the district classified into Level 4",53,52
+2012,00360000,Bourne,,,"Level 2","One or more schools in the district classified into Level 2",64,59
+2012,00370000,Boxborough,88,,"Level 1","Meeting gap narrowing goals",93,81
+2012,00380000,Boxford,,,"Level 2","One or more schools in the district classified into Level 2",84,80
+2012,00390000,Boylston,77,,"Level 2","Not meeting gap narrowing goals",74,64
+2012,00400000,Braintree,,,"Level 2","One or more schools in the district classified into Level 2",93,79
+2012,00410000,Brewster,,,"Level 2","One or more schools in the district classified into Level 2",81,75
+2012,00430000,Brimfield,93,,"Level 1","Meeting gap narrowing goals",100,100
+2012,00440000,Brockton,,,"Level 3","One or more schools in the district classified into Level 3",47,47
+2012,00450000,Brookfield,69,,"Level 2","Not meeting gap narrowing goals",82,68
+2012,00460000,Brookline,,,"Level 2","One or more schools in the district classified into Level 2",76,65
+2012,00480000,Burlington,,,"Level 2","One or more schools in the district classified into Level 2",65,61
+2012,00490000,Cambridge,,,"Level 2","One or more schools in the district classified into Level 2",71,60
+2012,00500000,Canton,,,"Level 2","One or more schools in the district classified into Level 2",74,65
+2012,00510000,Carlisle,99,,"Level 1","Meeting gap narrowing goals",100,91
+2012,00520000,Carver,,,"Level 2","One or more schools in the district classified into Level 2",65,58
+2012,00550000,Chatham,,,"Level 2","One or more schools in the district classified into Level 2",56,55
+2012,00560000,Chelmsford,,,"Level 2","One or more schools in the district classified into Level 2",73,71
+2012,00570000,Chelsea,,,"Level 3","One or more schools in the district classified into Level 3",53,47
+2012,00610000,Chicopee,,,"Level 3","One or more schools in the district classified into Level 3",59,57
+2012,00630000,Clarksburg,54,,"Level 2","Not meeting gap narrowing goals",69,84
+2012,00640000,Clinton,,,"Level 2","One or more schools in the district classified into Level 2",53,53
+2012,00650000,Cohasset,,,"Level 2","One or more schools in the district classified into Level 2",87,69
+2012,00670000,Concord,,,"Level 2","One or more schools in the district classified into Level 2",100,86
+2012,00680000,Conway,68,,"Level 2","Not meeting gap narrowing goals",53,43
+2012,00710000,Danvers,,,"Level 2","One or more schools in the district classified into Level 2",56,45
+2012,00720000,Dartmouth,,,"Level 2","One or more schools in the district classified into Level 2",76,62
+2012,00730000,Dedham,,,"Level 2","One or more schools in the district classified into Level 2",71,62
+2012,00740000,Deerfield,57,,"Level 2","Not meeting gap narrowing goals",56,63
+2012,00770000,Douglas,,,"Level 2","One or more schools in the district classified into Level 2",67,56
+2012,00780000,Dover,91,,"Level 1","Meeting gap narrowing goals",100,98
+2012,00790000,Dracut,,,"Level 3","One or more schools in the district classified into Level 3",54,52
+2012,00820000,Duxbury,,,"Level 1","One or more schools in the district classified into Level 1",98,90
+2012,00830000,"East Bridgewater",,,"Level 2","One or more schools in the district classified into Level 2",78,82
+2012,00850000,Eastham,61,,"Level 2","Not meeting gap narrowing goals",40,43
+2012,00860000,Easthampton,,,"Level 3","One or more schools in the district classified into Level 3",53,44
+2012,00870000,"East Longmeadow",,,"Level 2","One or more schools in the district classified into Level 2",69,64
+2012,00880000,Easton,,,"Level 2","One or more schools in the district classified into Level 2",70,59
+2012,00890000,Edgartown,85,,"Level 1","Meeting gap narrowing goals",100,100
+2012,00910000,Erving,68,,"Level 1","Meeting gap narrowing goals",85,76
+2012,00930000,Everett,,,"Level 3","One or more schools in the district classified into Level 3",49,51
+2012,00940000,Fairhaven,,,"Level 3","One or more schools in the district classified into Level 3",74,75
+2012,00950000,"Fall River",,,"Level 4","One or more schools in the district classified into Level 4",48,49
+2012,00960000,Falmouth,,,"Level 2","One or more schools in the district classified into Level 2",69,69
+2012,00970000,Fitchburg,,,"Level 3","One or more schools in the district classified into Level 3",46,49
+2012,00980000,Florida,55,,"Level 2","Not meeting gap narrowing goals",65,85
+2012,00990000,Foxborough,,,"Level 2","One or more schools in the district classified into Level 2",86,67
+2012,01000000,Framingham,,,"Level 3","One or more schools in the district classified into Level 3",50,48
+2012,01010000,Franklin,,,"Level 2","One or more schools in the district classified into Level 2",81,64
+2012,01030000,Gardner,,,"Level 3","One or more schools in the district classified into Level 3",45,44
+2012,01050000,Georgetown,,,"Level 2","One or more schools in the district classified into Level 2",74,67
+2012,01070000,Gloucester,,,"Level 3","One or more schools in the district classified into Level 3",70,68
+2012,01090000,Gosnold,,,"Insufficient data","Insufficient data",,
+2012,01100000,Grafton,,,"Level 2","One or more schools in the district classified into Level 2",73,51
+2012,01110000,Granby,,,"Level 2","One or more schools in the district classified into Level 2",63,61
+2012,01120000,Granville,60,,"Level 2","Not meeting gap narrowing goals",69,
+2012,01140000,Greenfield,,,"Level 3","One or more schools in the district classified into Level 3",61,51
+2012,01170000,Hadley,,,"Level 1","One or more schools in the district classified into Level 1",70,62
+2012,01180000,Halifax,67,,"Level 1","Meeting gap narrowing goals",94,79
+2012,01210000,Hancock,,,"Insufficient data","Insufficient data",,
+2012,01220000,Hanover,,,"Level 2","One or more schools in the district classified into Level 2",78,61
+2012,01250000,Harvard,,,"Level 1","One or more schools in the district classified into Level 1",91,82
+2012,01260000,Harwich,,,"Level 2","One or more schools in the district classified into Level 2",65,68
+2012,01270000,Hatfield,,,"Level 2","One or more schools in the district classified into Level 2",61,70
+2012,01280000,Haverhill,,,"Level 3","One or more schools in the district classified into Level 3",42,50
+2012,01310000,Hingham,,,"Level 2","One or more schools in the district classified into Level 2",92,72
+2012,01330000,Holbrook,,,"Level 3","One or more schools in the district classified into Level 3",76,84
+2012,01350000,Holland,63,,"Level 1","Meeting gap narrowing goals",98,76
+2012,01360000,Holliston,,,"Level 1","One or more schools in the district classified into Level 1",95,66
+2012,01370000,Holyoke,,,"Level 4","One or more schools in the district classified into Level 4",53,62
+2012,01380000,Hopedale,,,"Level 2","One or more schools in the district classified into Level 2",72,68
+2012,01390000,Hopkinton,,,"Level 2","One or more schools in the district classified into Level 2",100,70
+2012,01410000,Hudson,,,"Level 2","One or more schools in the district classified into Level 2",65,54
+2012,01420000,Hull,,,"Level 2","One or more schools in the district classified into Level 2",60,56
+2012,01440000,Ipswich,,,"Level 2","One or more schools in the district classified into Level 2",69,54
+2012,01450000,Kingston,,,"Level 1","One or more schools in the district classified into Level 1",90,77
+2012,01480000,Lanesborough,60,,"Level 2","Not meeting gap narrowing goals",76,71
+2012,01490000,Lawrence,,,"Level 5","Chronically underperforming district",60,55
+2012,01500000,Lee,,,"Level 2","One or more schools in the district classified into Level 2",64,54
+2012,01510000,Leicester,,,"Level 2","One or more schools in the district classified into Level 2",65,65
+2012,01520000,Lenox,,,"Level 2","One or more schools in the district classified into Level 2",91,78
+2012,01530000,Leominster,,,"Level 3","One or more schools in the district classified into Level 3",73,71
+2012,01540000,Leverett,61,,"Level 2","Not meeting gap narrowing goals",83,56
+2012,01550000,Lexington,,,"Level 2","One or more schools in the district classified into Level 2",100,84
+2012,01570000,Lincoln,,,"Level 2","One or more schools in the district classified into Level 2",86,91
+2012,01580000,Littleton,,,"Level 2","One or more schools in the district classified into Level 2",77,82
+2012,01590000,Longmeadow,,,"Level 2","One or more schools in the district classified into Level 2",83,61
+2012,01600000,Lowell,,,"Level 4","One or more schools in the district classified into Level 4",55,56
+2012,01610000,Ludlow,,,"Level 2","One or more schools in the district classified into Level 2",57,72
+2012,01620000,Lunenburg,,,"Level 2","One or more schools in the district classified into Level 2",66,66
+2012,01630000,Lynn,,,"Level 4","One or more schools in the district classified into Level 4",52,51
+2012,01640000,Lynnfield,,,"Level 2","One or more schools in the district classified into Level 2",88,84
+2012,01650000,Malden,,,"Level 3","One or more schools in the district classified into Level 3",68,70
+2012,01670000,Mansfield,,,"Level 2","One or more schools in the district classified into Level 2",74,65
+2012,01680000,Marblehead,,,"Level 2","One or more schools in the district classified into Level 2",79,62
+2012,01690000,Marion,71,,"Level 2","Not meeting gap narrowing goals",88,73
+2012,01700000,Marlborough,,,"Level 3","One or more schools in the district classified into Level 3",49,40
+2012,01710000,Marshfield,,,"Level 2","One or more schools in the district classified into Level 2",66,56
+2012,01720000,Mashpee,,,"Level 2","One or more schools in the district classified into Level 2",47,51
+2012,01730000,Mattapoisett,,,"Level 1","One or more schools in the district classified into Level 1",87,85
+2012,01740000,Maynard,,,"Level 2","One or more schools in the district classified into Level 2",60,46
+2012,01750000,Medfield,,,"Level 2","One or more schools in the district classified into Level 2",95,62
+2012,01760000,Medford,,,"Level 2","One or more schools in the district classified into Level 2",59,55
+2012,01770000,Medway,,,"Level 2","One or more schools in the district classified into Level 2",90,76
+2012,01780000,Melrose,,,"Level 2","One or more schools in the district classified into Level 2",69,57
+2012,01810000,Methuen,,,"Level 3","One or more schools in the district classified into Level 3",50,44
+2012,01820000,Middleborough,,,"Level 2","One or more schools in the district classified into Level 2",54,47
+2012,01840000,Middleton,,,"Level 1","One or more schools in the district classified into Level 1",99,84
+2012,01850000,Milford,,,"Level 2","One or more schools in the district classified into Level 2",76,72
+2012,01860000,Millbury,,,"Level 2","One or more schools in the district classified into Level 2",78,65
+2012,01870000,Millis,,,"Level 2","One or more schools in the district classified into Level 2",65,63
+2012,01890000,Milton,,,"Level 1","One or more schools in the district classified into Level 1",93,85
+2012,01910000,Monson,,,"Level 3","One or more schools in the district classified into Level 3",61,58
+2012,01960000,Nahant,66,,"Level 1","Meeting gap narrowing goals",81,
+2012,01970000,Nantucket,,,"Level 2","One or more schools in the district classified into Level 2",73,68
+2012,01980000,Natick,,,"Level 2","One or more schools in the district classified into Level 2",83,58
+2012,01990000,Needham,,,"Level 2","One or more schools in the district classified into Level 2",85,60
+2012,02010000,"New Bedford",,,"Level 4","One or more schools in the district classified into Level 4",43,41
+2012,02040000,Newburyport,,,"Level 2","One or more schools in the district classified into Level 2",72,64
+2012,02070000,Newton,,,"Level 2","One or more schools in the district classified into Level 2",89,71
+2012,02080000,Norfolk,,,"Level 2","One or more schools in the district classified into Level 2",93,68
+2012,02090000,"North Adams",,,"Level 3","One or more schools in the district classified into Level 3",38,30
+2012,02100000,Northampton,,,"Level 3","One or more schools in the district classified into Level 3",59,54
+2012,02110000,"North Andover",,,"Level 2","One or more schools in the district classified into Level 2",77,66
+2012,02120000,"North Attleborough",,,"Level 2","One or more schools in the district classified into Level 2",70,52
+2012,02130000,Northborough,,,"Level 2","One or more schools in the district classified into Level 2",54,32
+2012,02140000,Northbridge,,,"Level 3","One or more schools in the district classified into Level 3",55,45
+2012,02150000,"North Brookfield",,,"Level 2","One or more schools in the district classified into Level 2",63,74
+2012,02170000,"North Reading",,,"Level 2","One or more schools in the district classified into Level 2",70,58
+2012,02180000,Norton,,,"Level 2","One or more schools in the district classified into Level 2",83,73
+2012,02190000,Norwell,,,"Level 2","One or more schools in the district classified into Level 2",99,74
+2012,02200000,Norwood,,,"Level 2","One or more schools in the district classified into Level 2",79,72
+2012,02210000,"Oak Bluffs",87,,"Level 1","Meeting gap narrowing goals",100,99
+2012,02230000,Orange,,,"Level 3","One or more schools in the district classified into Level 3",41,38
+2012,02240000,Orleans,82,,"Level 1","Meeting gap narrowing goals",93,88
+2012,02260000,Oxford,,,"Level 3","One or more schools in the district classified into Level 3",70,71
+2012,02270000,Palmer,,,"Level 3","One or more schools in the district classified into Level 3",46,46
+2012,02290000,Peabody,,,"Level 3","One or more schools in the district classified into Level 3",56,54
+2012,02300000,Pelham,79,,"Level 1","Meeting gap narrowing goals",81,
+2012,02310000,Pembroke,,,"Level 2","One or more schools in the district classified into Level 2",76,67
+2012,02340000,Petersham,46,,"Level 2","Not meeting gap narrowing goals",65,
+2012,02360000,Pittsfield,,,"Level 3","One or more schools in the district classified into Level 3",68,70
+2012,02380000,Plainville,,,"Level 2","One or more schools in the district classified into Level 2",80,79
+2012,02390000,Plymouth,,,"Level 3","One or more schools in the district classified into Level 3",59,54
+2012,02400000,Plympton,81,,"Level 1","Meeting gap narrowing goals",100,100
+2012,02420000,Provincetown,28,,"Level 2","Not meeting gap narrowing goals",62,
+2012,02430000,Quincy,,,"Level 3","One or more schools in the district classified into Level 3",59,54
+2012,02440000,Randolph,,,"Level 4","Underperforming district",53,57
+2012,02460000,Reading,,,"Level 2","One or more schools in the district classified into Level 2",79,58
+2012,02480000,Revere,,,"Level 3","One or more schools in the district classified into Level 3",58,63
+2012,02490000,Richmond,70,,"Level 2","Not meeting gap narrowing goals",73,
+2012,02500000,Rochester,77,,"Level 1","Meeting gap narrowing goals",81,76
+2012,02510000,Rockland,,,"Level 3","One or more schools in the district classified into Level 3",68,65
+2012,02520000,Rockport,,,"Level 2","One or more schools in the district classified into Level 2",69,60
+2012,02530000,Rowe,66,,"Level 2","Not meeting gap narrowing goals",74,
+2012,02580000,Salem,,,"Level 4","One or more schools in the district classified into Level 4",56,54
+2012,02610000,Sandwich,,,"Level 2","One or more schools in the district classified into Level 2",77,72
+2012,02620000,Saugus,,,"Level 3","One or more schools in the district classified into Level 3",61,63
+2012,02630000,Savoy,,,"Insufficient data","Insufficient data",,
+2012,02640000,Scituate,,,"Level 2","One or more schools in the district classified into Level 2",83,75
+2012,02650000,Seekonk,,,"Level 2","One or more schools in the district classified into Level 2",81,65
+2012,02660000,Sharon,,,"Level 2","One or more schools in the district classified into Level 2",91,73
+2012,02690000,Sherborn,96,,"Level 1","Meeting gap narrowing goals",100,76
+2012,02710000,Shrewsbury,,,"Level 1","One or more schools in the district classified into Level 1",88,74
+2012,02720000,Shutesbury,69,,"Level 2","Not meeting gap narrowing goals",71,
+2012,02730000,Somerset,,,"Level 2","One or more schools in the district classified into Level 2",54,55
+2012,02740000,Somerville,,,"Level 3","One or more schools in the district classified into Level 3",56,52
+2012,02750000,Southampton,44,,"Level 2","Not meeting gap narrowing goals",70,80
+2012,02760000,Southborough,,,"Level 2","One or more schools in the district classified into Level 2",69,66
+2012,02770000,Southbridge,,,"Level 4","Underperforming district",49,50
+2012,02780000,"South Hadley",,,"Level 2","One or more schools in the district classified into Level 2",69,69
+2012,02810000,Springfield,,,"Level 4","One or more schools in the district classified into Level 4",39,41
+2012,02840000,Stoneham,,,"Level 2","One or more schools in the district classified into Level 2",80,73
+2012,02850000,Stoughton,,,"Level 3","One or more schools in the district classified into Level 3",65,54
+2012,02870000,Sturbridge,76,,"Level 2","Not meeting gap narrowing goals",88,69
+2012,02880000,Sudbury,,,"Level 2","One or more schools in the district classified into Level 2",100,69
+2012,02890000,Sunderland,78,,"Level 1","Meeting gap narrowing goals",93,100
+2012,02900000,Sutton,,,"Level 2","One or more schools in the district classified into Level 2",59,57
+2012,02910000,Swampscott,,,"Level 2","One or more schools in the district classified into Level 2",89,83
+2012,02920000,Swansea,,,"Level 2","One or more schools in the district classified into Level 2",78,70
+2012,02930000,Taunton,,,"Level 3","One or more schools in the district classified into Level 3",49,48
+2012,02950000,Tewksbury,,,"Level 2","One or more schools in the district classified into Level 2",71,68
+2012,02960000,Tisbury,78,,"Level 1","Meeting gap narrowing goals",88,85
+2012,02980000,Topsfield,,,"Level 2","One or more schools in the district classified into Level 2",82,58
+2012,03000000,Truro,73,,"Level 2","Not meeting gap narrowing goals",64,
+2012,03010000,Tyngsborough,,,"Level 2","One or more schools in the district classified into Level 2",75,73
+2012,03040000,Uxbridge,,,"Level 2","One or more schools in the district classified into Level 2",56,49
+2012,03050000,Wakefield,,,"Level 2","One or more schools in the district classified into Level 2",63,49
+2012,03060000,Wales,73,,"Level 1","Meeting gap narrowing goals",100,100
+2012,03070000,Walpole,,,"Level 2","One or more schools in the district classified into Level 2",77,72
+2012,03080000,Waltham,,,"Level 3","One or more schools in the district classified into Level 3",64,55
+2012,03090000,Ware,,,"Level 3","One or more schools in the district classified into Level 3",60,63
+2012,03100000,Wareham,,,"Level 3","One or more schools in the district classified into Level 3",51,53
+2012,03140000,Watertown,,,"Level 3","One or more schools in the district classified into Level 3",53,53
+2012,03150000,Wayland,,,"Level 2","One or more schools in the district classified into Level 2",100,79
+2012,03160000,Webster,,,"Level 3","One or more schools in the district classified into Level 3",46,51
+2012,03170000,Wellesley,,,"Level 2","One or more schools in the district classified into Level 2",90,67
+2012,03180000,Wellfleet,85,,"Level 1","Meeting gap narrowing goals",91,
+2012,03210000,Westborough,,,"Level 2","One or more schools in the district classified into Level 2",94,81
+2012,03220000,"West Boylston",,,"Level 2","One or more schools in the district classified into Level 2",61,57
+2012,03230000,"West Bridgewater",,,"Level 2","One or more schools in the district classified into Level 2",86,67
+2012,03250000,Westfield,,,"Level 3","One or more schools in the district classified into Level 3",65,64
+2012,03260000,Westford,,,"Level 2","One or more schools in the district classified into Level 2",100,79
+2012,03270000,Westhampton,82,,"Level 1","Meeting gap narrowing goals",93,
+2012,03300000,Weston,,,"Level 2","One or more schools in the district classified into Level 2",100,82
+2012,03310000,Westport,,,"Level 2","One or more schools in the district classified into Level 2",64,63
+2012,03320000,"West Springfield",,,"Level 3","One or more schools in the district classified into Level 3",56,59
+2012,03350000,Westwood,,,"Level 2","One or more schools in the district classified into Level 2",100,86
+2012,03360000,Weymouth,,,"Level 3","One or more schools in the district classified into Level 3",49,47
+2012,03370000,Whately,54,,"Level 2","Not meeting gap narrowing goals",55,
+2012,03400000,Williamsburg,,,"Level 1","One or more schools in the district classified into Level 1",82,
+2012,03410000,Williamstown,81,,"Level 2","Not meeting gap narrowing goals",87,50
+2012,03420000,Wilmington,,,"Level 2","One or more schools in the district classified into Level 2",67,57
+2012,03430000,Winchendon,,,"Level 3","One or more schools in the district classified into Level 3",58,60
+2012,03440000,Winchester,,,"Level 2","One or more schools in the district classified into Level 2",95,79
+2012,03460000,Winthrop,,,"Level 2","One or more schools in the district classified into Level 2",75,68
+2012,03470000,Woburn,,,"Level 2","One or more schools in the district classified into Level 2",56,61
+2012,03480000,Worcester,,,"Level 4","One or more schools in the district classified into Level 4",58,56
+2012,03500000,Wrentham,,,"Level 2","One or more schools in the district classified into Level 2",86,52
+2012,04060000,"Northampton-Smith Vocational Agricultural",16,,"Level 3","Among lowest performing 20% of schools",89,88
+2012,04090000,"Alma del Mar Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04100000,"Excel Academy Charter (District)",98,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04110000,"Boston Green Academy Horace Mann Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04120000,"Academy Of the Pacific Rim Charter Public (District)",70,,"Level 1","Meeting gap narrowing goals",95,94
+2012,04130000,"Four Rivers Charter Public (District)",72,,"Level 2","Not meeting gap narrowing goals",62,68
+2012,04140000,"Berkshire Arts and Technology Charter Public (District)",43,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04150000,"Amesbury Academy Charter Public (District)",,,"Insufficient data","Insufficient data",,
+2012,04160000,"Boston Preparatory Charter Public (District)",59,,"Level 2","Not meeting gap narrowing goals",74,81
+2012,04170000,"Bridge Boston Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04180000,"Christa McAuliffe Regional Charter Public (District)",57,,"Level 1","Meeting gap narrowing goals",100,85
+2012,04190000,"Smith Leadership Academy Charter Public (District)",24,,"Level 1","Meeting gap narrowing goals",76,79
+2012,04200000,"Benjamin Banneker Charter Public (District)",30,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04230000,"Barnstable Horace Mann Charter (District)",44,,"Level 2","Not meeting gap narrowing goals",46,41
+2012,04240000,"Boston Day and Evening Academy Charter (District)",,,"Insufficient data","Insufficient data",,
+2012,04270000,"Barnstable Community Horace Mann Charter Public (District)",,,"Level 2","Not meeting gap narrowing goals",66,
+2012,04280000,"Edward Brooke Charter (District)",95,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04290000,"KIPP Academy Lynn Charter (District)",45,,"Level 2","Not meeting gap narrowing goals",48,58
+2012,04300000,"Advanced Math and Science Academy Charter (District)",98,,"Level 1","Meeting gap narrowing goals",100,93
+2012,04320000,"Cape Cod Lighthouse Charter (District)",67,,"Level 2","Not meeting gap narrowing goals",65,59
+2012,04350000,"Innovation Academy Charter (District)",61,,"Level 1","Meeting gap narrowing goals",76,89
+2012,04360000,"Community Charter School of Cambridge (District)",51,,"Level 1","Meeting gap narrowing goals",91,93
+2012,04370000,"City On A Hill Charter Public (District)",56,,"Level 1","Meeting gap narrowing goals",82,86
+2012,04380000,"Codman Academy Charter Public (District)",46,,"Level 1","Meeting gap narrowing goals",78,
+2012,04390000,"Conservatory Lab Charter (District)",34,,"Level 1","Meeting gap narrowing goals",87,100
+2012,04400000,"Community Day Charter Public (District)",94,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04410000,"Sabis International Charter (District)",32,,"Level 2","Not meeting gap narrowing goals",70,69
+2012,04430000,"Edward W. Brooke Charter School 2 (District)",,,"Insufficient data","Insufficient data",,
+2012,04440000,"Neighborhood House Charter (District)",71,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04450000,"Abby Kelley Foster Charter Public (District)",24,,"Level 1","Meeting gap narrowing goals",80,83
+2012,04460000,"Foxborough Regional Charter (District)",47,,"Level 2","Not meeting gap narrowing goals",82,66
+2012,04470000,"Benjamin Franklin Classical Charter Public (District)",90,,"Level 1","Meeting gap narrowing goals",100,85
+2012,04480000,"Gloucester Community Arts Charter (District)",,,"Insufficient data","Insufficient data",,
+2012,04490000,"Boston Collegiate Charter (District)",74,,"Level 2","Not meeting gap narrowing goals",86,68
+2012,04500000,"Hilltown Cooperative Charter Public (District)",85,,"Level 1","Meeting gap narrowing goals",96,75
+2012,04520000,"Edward M. Kennedy Academy for Health Careers (Horace Mann Charter School)",25,,"Level 1","Meeting gap narrowing goals",81,87
+2012,04530000,"Holyoke Community Charter (District)",29,,"Level 2","Not meeting gap narrowing goals",68,70
+2012,04540000,"Lawrence Family Development Charter (District)",64,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04550000,"Hill View Montessori Charter Public (District)",62,,"Level 1","Meeting gap narrowing goals",97,100
+2012,04560000,"Lowell Community Charter Public (District)",21,,"Level 1","Meeting gap narrowing goals",95,99
+2012,04580000,"Lowell Middlesex Academy Charter (District)",,,"Insufficient data","Insufficient data",,
+2012,04610000,"Excel Academy Charter School - Chelsea (District)",,,"Insufficient data","Insufficient data",,
+2012,04620000,"Grove Hall Preparatory Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04640000,"Marblehead Community Charter Public (District)",76,,"Level 1","Meeting gap narrowing goals",100,82
+2012,04650000,"MATCH Community Day Charter Public School (District)",,,"Insufficient data","Insufficient data",,
+2012,04660000,"Martha's Vineyard Charter (District)",67,,"Level 2","Not meeting gap narrowing goals",62,53
+2012,04670000,"Salem Community Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04680000,"Ma Academy for Math and Science",,,"Insufficient data","Insufficient data",,
+2012,04690000,"MATCH Charter Public School (District)",77,,"Level 1","Meeting gap narrowing goals",76,80
+2012,04700000,"Mystic Valley Regional Charter (District)",64,,"Level 1","Meeting gap narrowing goals",88,79
+2012,04710000,"New Leadership Charter (District)",6,,"Level 3","Among lowest performing 20% of schools",47,43
+2012,04740000,"North Central Charter Essential (District)",37,,"Level 1","Meeting gap narrowing goals",80,80
+2012,04750000,"Dorchester Collegiate Academy Charter (District)",,,"Insufficient data","Insufficient data",,
+2012,04760000,"Spirit of Knowledge Charter School (District)",,,"Insufficient data","Insufficient data",,
+2012,04770000,"Silver Hill Horace Mann Charter (District)",24,,"Level 1","Meeting gap narrowing goals",100,98
+2012,04780000,"Francis W. Parker Charter Essential (District)",69,,"Level 2","Not meeting gap narrowing goals",69,71
+2012,04790000,"Pioneer Valley Performing Arts Charter Public (District)",61,,"Level 2","Not meeting gap narrowing goals",67,67
+2012,04800000,"UP Academy Charter School of Boston (District)",20,,"Level 3","Among lowest performing 20% of schools",85,84
+2012,04810000,"Boston Renaissance Charter Public (District)",13,,"Level 3","Among lowest performing 20% of schools",49,51
+2012,04820000,"River Valley Charter (District)",74,,"Level 2","Not meeting gap narrowing goals",70,70
+2012,04830000,"Rising Tide Charter Public (District)",84,,"Level 2","Not meeting gap narrowing goals",82,71
+2012,04840000,"Roxbury Preparatory Charter (District)",62,,"Level 2","Not meeting gap narrowing goals",65,78
+2012,04850000,"Salem Academy Charter (District)",56,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04860000,"Seven Hills Charter Public (District)",20,,"Level 3","Among lowest performing 20% of schools",82,83
+2012,04870000,"Prospect Hill Academy Charter (District)",35,,"Level 1","Meeting gap narrowing goals",78,76
+2012,04880000,"South Shore Charter Public (District)",80,,"Level 1","Meeting gap narrowing goals",99,93
+2012,04890000,"Sturgis Charter Public (District)",91,,"Level 1","Meeting gap narrowing goals",100,
+2012,04910000,"Atlantis Charter (District)",63,,"Level 1","Meeting gap narrowing goals",89,93
+2012,04920000,"Martin Luther King Jr. Charter School of Excellence (District)",12,,"Level 3","Among lowest performing 20% of schools",71,66
+2012,04930000,"Phoenix Charter Academy (District)",,,"Level 3","Persistently low graduation rate for one or more subgroups",95,
+2012,04940000,"Pioneer Charter School of Science (District)",89,,"Level 1","Meeting gap narrowing goals",100,100
+2012,04960000,"Global Learning Charter Public (District)",15,,"Level 3","Among lowest performing 20% of schools",56,54
+2012,04970000,"Pioneer Valley Chinese Immersion Charter(District)",,,"Insufficient data","Insufficient data",,
+2012,04990000,"Hampden Charter School of Science (District)",,,"Insufficient data","Insufficient data",,
+2012,06000000,Acton-Boxborough,,,"Level 2","One or more schools in the district classified into Level 2",95,82
+2012,06030000,Adams-Cheshire,,,"Level 3","One or more schools in the district classified into Level 3",53,55
+2012,06050000,Amherst-Pelham,,,"Level 3","One or more schools in the district classified into Level 3",70,71
+2012,06100000,Ashburnham-Westminster,,,"Level 2","One or more schools in the district classified into Level 2",64,59
+2012,06150000,Athol-Royalston,,,"Level 3","One or more schools in the district classified into Level 3",46,46
+2012,06160000,"Ayer Shirley School District",,,"Level 2","One or more schools in the district classified into Level 2",,
+2012,06180000,"Berkshire Hills",,,"Level 2","One or more schools in the district classified into Level 2",64,57
+2012,06200000,Berlin-Boylston,93,,"Level 1","Meeting gap narrowing goals",88,81
+2012,06220000,Blackstone-Millville,,,"Level 2","One or more schools in the district classified into Level 2",76,63
+2012,06250000,Bridgewater-Raynham,,,"Level 2","One or more schools in the district classified into Level 2",66,59
+2012,06320000,Chesterfield-Goshen,57,,"Level 1","Meeting gap narrowing goals",81,
+2012,06350000,"Central Berkshire",,,"Level 2","One or more schools in the district classified into Level 2",55,53
+2012,06400000,Concord-Carlisle,87,,"Level 2","Not meeting gap narrowing goals",85,66
+2012,06450000,Dennis-Yarmouth,,,"Level 2","One or more schools in the district classified into Level 2",51,48
+2012,06500000,Dighton-Rehoboth,,,"Level 2","One or more schools in the district classified into Level 2",79,76
+2012,06550000,Dover-Sherborn,,,"Level 1","One or more schools in the district classified into Level 1",100,92
+2012,06580000,"Dudley-Charlton Reg",,,"Level 2","One or more schools in the district classified into Level 2",74,61
+2012,06600000,Nauset,,,"Level 2","One or more schools in the district classified into Level 2",74,70
+2012,06620000,"Farmington River Reg",44,,"Level 2","Not meeting gap narrowing goals",55,68
+2012,06650000,Freetown-Lakeville,,,"Level 3","One or more schools in the district classified into Level 3",80,59
+2012,06700000,Frontier,45,,"Level 2","Not meeting gap narrowing goals",69,64
+2012,06720000,Gateway,,,"Level 2","One or more schools in the district classified into Level 2",75,61
+2012,06730000,Groton-Dunstable,,,"Level 2","One or more schools in the district classified into Level 2",95,69
+2012,06740000,Gill-Montague,,,"Level 4","Underperforming district",58,54
+2012,06750000,Hamilton-Wenham,,,"Level 2","One or more schools in the district classified into Level 2",86,64
+2012,06800000,Hampden-Wilbraham,,,"Level 2","One or more schools in the district classified into Level 2",71,56
+2012,06830000,Hampshire,73,,"Level 2","Not meeting gap narrowing goals",76,69
+2012,06850000,Hawlemont,34,,"Level 2","Not meeting gap narrowing goals",71,66
+2012,06900000,"King Philip",,,"Level 1","One or more schools in the district classified into Level 1",83,69
+2012,06950000,Lincoln-Sudbury,82,,"Level 1","Meeting gap narrowing goals",97,89
+2012,06980000,"Manchester Essex Regional",,,"Level 2","One or more schools in the district classified into Level 2",100,93
+2012,07000000,"Marthas Vineyard",49,,"Level 1","Meeting gap narrowing goals",77,81
+2012,07050000,Masconomet,,,"Level 2","One or more schools in the district classified into Level 2",100,79
+2012,07100000,Mendon-Upton,,,"Level 2","One or more schools in the district classified into Level 2",77,73
+2012,07150000,"Mount Greylock",81,,"Level 1","Meeting gap narrowing goals",88,82
+2012,07170000,"Mohawk Trail",,,"Level 2","One or more schools in the district classified into Level 2",68,62
+2012,07200000,Narragansett,,,"Level 3","One or more schools in the district classified into Level 3",63,75
+2012,07250000,Nashoba,,,"Level 2","One or more schools in the district classified into Level 2",80,72
+2012,07280000,"New Salem-Wendell",72,,"Level 1","Meeting gap narrowing goals",89,79
+2012,07300000,Northboro-Southboro,90,,"Level 2","Low MCAS participation (Less than 95%)",100,90
+2012,07350000,"North Middlesex",,,"Level 2","One or more schools in the district classified into Level 2",64,57
+2012,07400000,"Old Rochester",,,"Level 2","One or more schools in the district classified into Level 2",77,63
+2012,07450000,Pentucket,,,"Level 2","One or more schools in the district classified into Level 2",62,61
+2012,07500000,"Pioneer Valley",,,"Level 2","One or more schools in the district classified into Level 2",70,73
+2012,07530000,Quabbin,,,"Level 2","One or more schools in the district classified into Level 2",71,66
+2012,07550000,"Ralph C Mahar",,,"Level 3","One or more schools in the district classified into Level 3",65,69
+2012,07600000,"Silver Lake",,,"Level 1","One or more schools in the district classified into Level 1",87,89
+2012,07630000,"Somerset Berkley Regional School District",67,,"Level 2","Not meeting gap narrowing goals",79,63
+2012,07650000,"Southern Berkshire",,,"Level 2","One or more schools in the district classified into Level 2",70,66
+2012,07660000,Southwick-Tolland,,,"Level 2","One or more schools in the district classified into Level 2",66,63
+2012,07670000,"Spencer-E Brookfield",,,"Level 3","One or more schools in the district classified into Level 3",48,46
+2012,07700000,Tantasqua,,,"Level 2","One or more schools in the district classified into Level 2",59,73
+2012,07730000,Triton,,,"Level 2","One or more schools in the district classified into Level 2",67,55
+2012,07740000,"Up-Island Regional",,,"Level 1","One or more schools in the district classified into Level 1",85,100
+2012,07750000,Wachusett,,,"Level 2","One or more schools in the district classified into Level 2",78,71
+2012,07780000,"Quaboag Regional",,,"Level 2","One or more schools in the district classified into Level 2",72,63
+2012,07800000,Whitman-Hanson,,,"Level 2","One or more schools in the district classified into Level 2",61,52
+2012,08010000,"Assabet Valley Regional Vocational Technical",47,,"Level 1","Meeting gap narrowing goals",97,91
+2012,08050000,"Blackstone Valley Regional Vocational Technical",71,,"Level 1","Meeting gap narrowing goals",100,94
+2012,08060000,"Blue Hills Regional Vocational Technical",51,,"Level 1","Meeting gap narrowing goals",100,91
+2012,08100000,"Bristol-Plymouth Regional Vocational Technical",44,,"Level 1","Meeting gap narrowing goals",98,100
+2012,08150000,"Cape Cod Regional Vocational Technical",34,,"Level 1","Meeting gap narrowing goals",86,92
+2012,08180000,"Franklin County Regional Vocational Technical",18,,"Level 3","Among lowest performing 20% of schools",70,63
+2012,08210000,"Greater Fall River Regional Vocational Technical",40,,"Level 1","Meeting gap narrowing goals",100,95
+2012,08230000,"Greater Lawrence Regional Vocational Technical",9,,"Level 3","Among lowest performing 20% of schools",81,81
+2012,08250000,"Greater New Bedford Regional Vocational Technical",25,,"Level 1","Meeting gap narrowing goals",89,89
+2012,08280000,"Greater Lowell Regional Vocational Technical",16,,"Level 3","Among lowest performing 20% of schools",76,78
+2012,08290000,"South Middlesex Regional Vocational Technical",21,,"Level 2","Not meeting gap narrowing goals",75,71
+2012,08300000,"Minuteman Regional Vocational Technical",32,,"Level 1","Meeting gap narrowing goals",77,79
+2012,08320000,"Montachusett Regional Vocational Technical",52,,"Level 1","Meeting gap narrowing goals",85,75
+2012,08510000,"Northern Berkshire Regional Vocational Technical",35,,"Level 1","Meeting gap narrowing goals",86,78
+2012,08520000,"Nashoba Valley Regional Vocational Technical",39,,"Level 1","Meeting gap narrowing goals",89,91
+2012,08530000,"Northeast Metropolitan Regional Vocational Technical",26,,"Level 1","Meeting gap narrowing goals",89,86
+2012,08540000,"North Shore Regional Vocational Technical",45,,"Level 1","Meeting gap narrowing goals",92,90
+2012,08550000,"Old Colony Regional Vocational Technical",42,,"Level 1","Meeting gap narrowing goals",99,86
+2012,08600000,"Pathfinder Regional Vocational Technical",21,,"Level 2","Not meeting gap narrowing goals",69,72
+2012,08710000,"Shawsheen Valley Regional Vocational Technical",85,,"Level 1","Meeting gap narrowing goals",100,100
+2012,08720000,"Southeastern Regional Vocational Technical",16,,"Level 3","Among lowest performing 20% of schools",93,81
+2012,08730000,"South Shore Regional Vocational Technical",37,,"Level 1","Meeting gap narrowing goals",86,80
+2012,08760000,"Southern Worcester County Regional Vocational Technical",44,,"Level 1","Meeting gap narrowing goals",90,89
+2012,08780000,"Tri County Regional Vocational Technical",37,,"Level 1","Meeting gap narrowing goals",80,79
+2012,08790000,"Upper Cape Cod Regional Vocational Technical",50,,"Level 1","Meeting gap narrowing goals",98,86
+2012,08850000,"Whittier Regional Vocational Technical",51,,"Level 1","Meeting gap narrowing goals",95,89
+2012,09100000,"Bristol County Agricultural",69,,"Level 1","Meeting gap narrowing goals",93,88
+2012,09130000,"Essex Agricultural Technical",71,,"Level 1","Meeting gap narrowing goals",100,96
+2012,09150000,"Norfolk County Agricultural",68,,"Level 1","Meeting gap narrowing goals",88,
+2013,00010000,Abington,,,"Level 2","One or more schools in the district classified into Level 2",52,48
+2013,00020000,Acton,,,"Level 2","One or more schools in the district classified into Level 2",95,72
+2013,00030000,Acushnet,,,"Level 2","One or more schools in the district classified into Level 2",63,62
+2013,00050000,Agawam,,,"Level 2","One or more schools in the district classified into Level 2",52,58
+2013,00070000,Amesbury,,,"Level 2","One or more schools in the district classified into Level 2",64,52
+2013,00080000,Amherst,,,"Level 2","One or more schools in the district classified into Level 2",64,55
+2013,00090000,Andover,,,"Level 2","One or more schools in the district classified into Level 2",89,60
+2013,00100000,Arlington,,,"Level 2","One or more schools in the district classified into Level 2",74,65
+2013,00140000,Ashland,,,"Level 2","One or more schools in the district classified into Level 2",69,59
+2013,00160000,Attleboro,,,"Level 2","One or more schools in the district classified into Level 2",79,59
+2013,00170000,Auburn,,,"Level 2","One or more schools in the district classified into Level 2",73,70
+2013,00180000,Avon,,,"Level 2","One or more schools in the district classified into Level 2",71,69
+2013,00200000,Barnstable,,,"Level 2","One or more schools in the district classified into Level 2",55,50
+2013,00230000,Bedford,,,"Level 2","One or more schools in the district classified into Level 2",74,64
+2013,00240000,Belchertown,,,"Level 2","One or more schools in the district classified into Level 2",69,58
+2013,00250000,Bellingham,,,"Level 2","One or more schools in the district classified into Level 2",58,54
+2013,00260000,Belmont,,,"Level 1","One or more schools in the district classified into Level 1",99,73
+2013,00270000,Berkley,,,"Level 2","One or more schools in the district classified into Level 2",54,47
+2013,00280000,Berlin,48,,"Level 2","Not meeting gap narrowing goals",55,73
+2013,00300000,Beverly,,,"Level 2","One or more schools in the district classified into Level 2",73,60
+2013,00310000,Billerica,,,"Level 3","One or more schools in the district classified into Level 3",47,47
+2013,00350000,Boston,,,"Level 4","One or more schools in the district classified into Level 4",48,51
+2013,00360000,Bourne,,,"Level 2","One or more schools in the district classified into Level 2",58,54
+2013,00370000,Boxborough,92,,"Level 1","Meeting gap narrowing goals",100,94
+2013,00380000,Boxford,,,"Level 1","One or more schools in the district classified into Level 1",93,84
+2013,00390000,Boylston,81,,"Level 1","Meeting gap narrowing goals",80,79
+2013,00400000,Braintree,,,"Level 2","One or more schools in the district classified into Level 2",87,79
+2013,00410000,Brewster,,,"Level 2","One or more schools in the district classified into Level 2",76,75
+2013,00430000,Brimfield,91,,"Level 2","Not meeting gap narrowing goals",96,70
+2013,00440000,Brockton,,,"Level 3","One or more schools in the district classified into Level 3",53,56
+2013,00450000,Brookfield,69,,"Level 2","Not meeting gap narrowing goals",84,71
+2013,00460000,Brookline,,,"Level 2","One or more schools in the district classified into Level 2",68,58
+2013,00480000,Burlington,,,"Level 2","One or more schools in the district classified into Level 2",57,48
+2013,00490000,Cambridge,,,"Level 3","One or more schools in the district classified into Level 3",71,56
+2013,00500000,Canton,,,"Level 2","One or more schools in the district classified into Level 2",77,68
+2013,00510000,Carlisle,99,,"Level 1","Meeting gap narrowing goals",100,97
+2013,00520000,Carver,,,"Level 2","One or more schools in the district classified into Level 2",58,60
+2013,00560000,Chelmsford,,,"Level 2","One or more schools in the district classified into Level 2",71,66
+2013,00570000,Chelsea,,,"Level 3","One or more schools in the district classified into Level 3",44,41
+2013,00610000,Chicopee,,,"Level 3","One or more schools in the district classified into Level 3",61,63
+2013,00630000,Clarksburg,51,,"Level 2","Not meeting gap narrowing goals",58,68
+2013,00640000,Clinton,,,"Level 2","One or more schools in the district classified into Level 2",54,51
+2013,00650000,Cohasset,,,"Level 2","One or more schools in the district classified into Level 2",87,73
+2013,00670000,Concord,,,"Level 2","One or more schools in the district classified into Level 2",91,72
+2013,00680000,Conway,61,,"Level 2","Not meeting gap narrowing goals",45,
+2013,00710000,Danvers,,,"Level 2","One or more schools in the district classified into Level 2",60,44
+2013,00720000,Dartmouth,,,"Level 2","One or more schools in the district classified into Level 2",72,65
+2013,00730000,Dedham,,,"Level 2","One or more schools in the district classified into Level 2",61,55
+2013,00740000,Deerfield,54,,"Level 2","Not meeting gap narrowing goals",53,41
+2013,00770000,Douglas,,,"Level 2","One or more schools in the district classified into Level 2",68,53
+2013,00780000,Dover,95,,"Level 1","Meeting gap narrowing goals",100,100
+2013,00790000,Dracut,,,"Level 3","One or more schools in the district classified into Level 3",52,50
+2013,00820000,Duxbury,,,"Level 2","One or more schools in the district classified into Level 2",95,81
+2013,00830000,"East Bridgewater",,,"Level 2","One or more schools in the district classified into Level 2",68,66
+2013,00850000,Eastham,60,,"Level 2","Not meeting gap narrowing goals",55,58
+2013,00860000,Easthampton,,,"Level 3","One or more schools in the district classified into Level 3",53,41
+2013,00870000,"East Longmeadow",,,"Level 2","One or more schools in the district classified into Level 2",64,60
+2013,00880000,Easton,,,"Level 2","One or more schools in the district classified into Level 2",64,59
+2013,00890000,Edgartown,85,,"Level 1","Meeting gap narrowing goals",92,84
+2013,00910000,Erving,65,,"Level 2","Not meeting gap narrowing goals",74,51
+2013,00930000,Everett,,,"Level 3","One or more schools in the district classified into Level 3",58,56
+2013,00940000,Fairhaven,,,"Level 2","One or more schools in the district classified into Level 2",65,54
+2013,00950000,"Fall River",,,"Level 4","One or more schools in the district classified into Level 4",51,47
+2013,00960000,Falmouth,,,"Level 2","One or more schools in the district classified into Level 2",69,61
+2013,00970000,Fitchburg,,,"Level 3","One or more schools in the district classified into Level 3",50,55
+2013,00980000,Florida,52,,"Level 2","Not meeting gap narrowing goals",51,60
+2013,00990000,Foxborough,,,"Level 2","One or more schools in the district classified into Level 2",78,64
+2013,01000000,Framingham,,,"Level 3","One or more schools in the district classified into Level 3",50,53
+2013,01010000,Franklin,,,"Level 2","One or more schools in the district classified into Level 2",75,59
+2013,01030000,Gardner,,,"Level 3","One or more schools in the district classified into Level 3",45,40
+2013,01050000,Georgetown,,,"Level 2","One or more schools in the district classified into Level 2",66,56
+2013,01070000,Gloucester,,,"Level 3","One or more schools in the district classified into Level 3",67,62
+2013,01090000,Gosnold,,,"Insufficient data",,,
+2013,01100000,Grafton,,,"Level 2","One or more schools in the district classified into Level 2",67,54
+2013,01110000,Granby,,,"Level 2","One or more schools in the district classified into Level 2",74,72
+2013,01140000,Greenfield,,,"Level 2","One or more schools in the district classified into Level 2",62,51
+2013,01170000,Hadley,,,"Level 2","One or more schools in the district classified into Level 2",64,45
+2013,01180000,Halifax,71,,"Level 2","Not meeting gap narrowing goals",87,73
+2013,01210000,Hancock,,,"Insufficient data",,,
+2013,01220000,Hanover,,,"Level 2","One or more schools in the district classified into Level 2",70,66
+2013,01250000,Harvard,,,"Level 2","One or more schools in the district classified into Level 2",96,86
+2013,01270000,Hatfield,,,"Level 1","One or more schools in the district classified into Level 1",74,89
+2013,01280000,Haverhill,,,"Level 3","One or more schools in the district classified into Level 3",49,58
+2013,01310000,Hingham,,,"Level 2","One or more schools in the district classified into Level 2",94,71
+2013,01330000,Holbrook,,,"Level 3","One or more schools in the district classified into Level 3",71,75
+2013,01350000,Holland,60,,"Level 1","Meeting gap narrowing goals",83,80
+2013,01360000,Holliston,,,"Level 2","One or more schools in the district classified into Level 2",93,65
+2013,01370000,Holyoke,,,"Level 4","One or more schools in the district classified into Level 4",56,62
+2013,01380000,Hopedale,,,"Level 2","One or more schools in the district classified into Level 2",76,72
+2013,01390000,Hopkinton,,,"Level 2","One or more schools in the district classified into Level 2",99,58
+2013,01410000,Hudson,,,"Level 3","One or more schools in the district classified into Level 3",58,50
+2013,01420000,Hull,,,"Level 2","One or more schools in the district classified into Level 2",58,53
+2013,01440000,Ipswich,,,"Level 2","One or more schools in the district classified into Level 2",65,52
+2013,01450000,Kingston,,,"Level 2","One or more schools in the district classified into Level 2",73,60
+2013,01480000,Lanesborough,63,,"Level 1","Meeting gap narrowing goals",81,79
+2013,01490000,Lawrence,,,"Level 5","Chronically underperforming district",65,59
+2013,01500000,Lee,,,"Level 2","One or more schools in the district classified into Level 2",67,57
+2013,01510000,Leicester,,,"Level 2","One or more schools in the district classified into Level 2",50,57
+2013,01520000,Lenox,,,"Level 2","One or more schools in the district classified into Level 2",81,82
+2013,01530000,Leominster,,,"Level 3","One or more schools in the district classified into Level 3",66,66
+2013,01540000,Leverett,63,,"Level 1","Meeting gap narrowing goals",86,75
+2013,01550000,Lexington,,,"Level 2","One or more schools in the district classified into Level 2",100,81
+2013,01570000,Lincoln,,,"Level 1","One or more schools in the district classified into Level 1",90,82
+2013,01580000,Littleton,,,"Level 2","One or more schools in the district classified into Level 2",73,78
+2013,01590000,Longmeadow,,,"Level 2","One or more schools in the district classified into Level 2",83,56
+2013,01600000,Lowell,,,"Level 3*","One or more schools in the district classified into Level 3",52,54
+2013,01610000,Ludlow,,,"Level 2","One or more schools in the district classified into Level 2",62,65
+2013,01620000,Lunenburg,,,"Level 2","One or more schools in the district classified into Level 2",61,62
+2013,01630000,Lynn,,,"Level 3*","One or more schools in the district classified into Level 3",54,56
+2013,01640000,Lynnfield,,,"Level 2","One or more schools in the district classified into Level 2",91,78
+2013,01650000,Malden,,,"Level 3","One or more schools in the district classified into Level 3",62,65
+2013,01670000,Mansfield,,,"Level 2","One or more schools in the district classified into Level 2",73,60
+2013,01680000,Marblehead,,,"Level 2","One or more schools in the district classified into Level 2",73,61
+2013,01690000,Marion,75,,"Level 1","Meeting gap narrowing goals",86,88
+2013,01700000,Marlborough,,,"Level 3","One or more schools in the district classified into Level 3",46,39
+2013,01710000,Marshfield,,,"Level 2","One or more schools in the district classified into Level 2",75,54
+2013,01720000,Mashpee,,,"Level 3","One or more schools in the district classified into Level 3",48,53
+2013,01730000,Mattapoisett,,,"Level 1","One or more schools in the district classified into Level 1",98,100
+2013,01740000,Maynard,,,"Level 2","One or more schools in the district classified into Level 2",49,42
+2013,01750000,Medfield,,,"Level 2","One or more schools in the district classified into Level 2",93,64
+2013,01760000,Medford,,,"Level 2","One or more schools in the district classified into Level 2",54,49
+2013,01770000,Medway,,,"Level 2","One or more schools in the district classified into Level 2",90,64
+2013,01780000,Melrose,,,"Level 2","One or more schools in the district classified into Level 2",73,63
+2013,01810000,Methuen,,,"Level 3","One or more schools in the district classified into Level 3",53,49
+2013,01820000,Middleborough,,,"Level 3","One or more schools in the district classified into Level 3",50,53
+2013,01840000,Middleton,,,"Level 1","One or more schools in the district classified into Level 1",93,83
+2013,01850000,Milford,,,"Level 2","One or more schools in the district classified into Level 2",67,65
+2013,01860000,Millbury,,,"Level 2","One or more schools in the district classified into Level 2",83,68
+2013,01870000,Millis,,,"Level 2","One or more schools in the district classified into Level 2",69,57
+2013,01890000,Milton,,,"Level 2","One or more schools in the district classified into Level 2",80,63
+2013,01910000,Monson,,,"Level 3","One or more schools in the district classified into Level 3",63,61
+2013,01960000,Nahant,69,,"Level 1","Meeting gap narrowing goals",86,
+2013,01970000,Nantucket,,,"Level 2","One or more schools in the district classified into Level 2",60,55
+2013,01980000,Natick,,,"Level 2","One or more schools in the district classified into Level 2",79,59
+2013,01990000,Needham,,,"Level 2","One or more schools in the district classified into Level 2",86,63
+2013,02010000,"New Bedford",,,"Level 4","One or more schools in the district classified into Level 4",50,45
+2013,02040000,Newburyport,,,"Level 2","One or more schools in the district classified into Level 2",84,72
+2013,02070000,Newton,,,"Level 2","One or more schools in the district classified into Level 2",87,72
+2013,02080000,Norfolk,,,"Level 2","One or more schools in the district classified into Level 2",95,74
+2013,02090000,"North Adams",,,"Level 3","One or more schools in the district classified into Level 3",52,41
+2013,02100000,Northampton,,,"Level 3","One or more schools in the district classified into Level 3",56,56
+2013,02110000,"North Andover",,,"Level 2","One or more schools in the district classified into Level 2",82,71
+2013,02120000,"North Attleborough",,,"Level 2","One or more schools in the district classified into Level 2",64,49
+2013,02130000,Northborough,,,"Level 2","One or more schools in the district classified into Level 2",59,51
+2013,02140000,Northbridge,,,"Level 3","One or more schools in the district classified into Level 3",51,45
+2013,02150000,"North Brookfield",,,"Level 2","One or more schools in the district classified into Level 2",64,66
+2013,02170000,"North Reading",,,"Level 2","One or more schools in the district classified into Level 2",70,60
+2013,02180000,Norton,,,"Level 2","One or more schools in the district classified into Level 2",74,56
+2013,02190000,Norwell,,,"Level 2","One or more schools in the district classified into Level 2",95,66
+2013,02200000,Norwood,,,"Level 2","One or more schools in the district classified into Level 2",70,67
+2013,02210000,"Oak Bluffs",92,,"Level 1","Meeting gap narrowing goals",100,87
+2013,02230000,Orange,,,"Level 3","One or more schools in the district classified into Level 3",42,42
+2013,02240000,Orleans,87,,"Level 1","Meeting gap narrowing goals",99,83
+2013,02260000,Oxford,,,"Level 3","One or more schools in the district classified into Level 3",56,57
+2013,02270000,Palmer,,,"Level 3","One or more schools in the district classified into Level 3",38,39
+2013,02290000,Peabody,,,"Level 3","One or more schools in the district classified into Level 3",48,46
+2013,02300000,Pelham,81,,"Level 1","Meeting gap narrowing goals",82,
+2013,02310000,Pembroke,,,"Level 2","One or more schools in the district classified into Level 2",64,58
+2013,02340000,Petersham,54,,"Level 2","Not meeting gap narrowing goals",74,
+2013,02360000,Pittsfield,,,"Level 3","One or more schools in the district classified into Level 3",56,59
+2013,02380000,Plainville,,,"Level 2","One or more schools in the district classified into Level 2",82,80
+2013,02390000,Plymouth,,,"Level 2","One or more schools in the district classified into Level 2",54,51
+2013,02400000,Plympton,74,,"Level 2","Not meeting gap narrowing goals",80,66
+2013,02420000,Provincetown,24,,"Level 2","Not meeting gap narrowing goals",48,
+2013,02430000,Quincy,,,"Level 3","One or more schools in the district classified into Level 3",64,61
+2013,02440000,Randolph,,,"Level 4","Underperforming district",50,48
+2013,02460000,Reading,,,"Level 2","One or more schools in the district classified into Level 2",68,49
+2013,02480000,Revere,,,"Level 3","One or more schools in the district classified into Level 3",56,59
+2013,02490000,Richmond,70,,"Level 1","Meeting gap narrowing goals",84,
+2013,02500000,Rochester,74,,"Level 2","Not meeting gap narrowing goals",67,67
+2013,02510000,Rockland,,,"Level 2","One or more schools in the district classified into Level 2",66,62
+2013,02520000,Rockport,,,"Level 2","One or more schools in the district classified into Level 2",66,58
+2013,02530000,Rowe,57,,"Level 2","Not meeting gap narrowing goals",72,
+2013,02580000,Salem,,,"Level 4","One or more schools in the district classified into Level 4",60,56
+2013,02610000,Sandwich,,,"Level 2","One or more schools in the district classified into Level 2",66,66
+2013,02620000,Saugus,,,"Level 2","One or more schools in the district classified into Level 2",69,70
+2013,02630000,Savoy,,,"Insufficient data",,,
+2013,02640000,Scituate,,,"Level 2","One or more schools in the district classified into Level 2",76,60
+2013,02650000,Seekonk,,,"Level 2","One or more schools in the district classified into Level 2",79,63
+2013,02660000,Sharon,,,"Level 2","One or more schools in the district classified into Level 2",93,77
+2013,02690000,Sherborn,95,,"Level 1","Meeting gap narrowing goals",100,90
+2013,02710000,Shrewsbury,,,"Level 2","One or more schools in the district classified into Level 2",86,68
+2013,02720000,Shutesbury,73,,"Level 1","Meeting gap narrowing goals",75,
+2013,02730000,Somerset,,,"Level 2","One or more schools in the district classified into Level 2",55,62
+2013,02740000,Somerville,,,"Level 3","One or more schools in the district classified into Level 3",65,64
+2013,02750000,Southampton,49,,"Level 2","Not meeting gap narrowing goals",76,59
+2013,02760000,Southborough,,,"Level 2","One or more schools in the district classified into Level 2",80,75
+2013,02770000,Southbridge,,,"Level 4","Underperforming district",38,41
+2013,02780000,"South Hadley",,,"Level 2","One or more schools in the district classified into Level 2",70,71
+2013,02810000,Springfield,,,"Level 4","One or more schools in the district classified into Level 4",45,45
+2013,02840000,Stoneham,,,"Level 2","One or more schools in the district classified into Level 2",79,73
+2013,02850000,Stoughton,,,"Level 3","One or more schools in the district classified into Level 3",57,54
+2013,02870000,Sturbridge,81,,"Level 2","Not meeting gap narrowing goals",91,69
+2013,02880000,Sudbury,,,"Level 2","One or more schools in the district classified into Level 2",95,49
+2013,02890000,Sunderland,84,,"Level 1","Meeting gap narrowing goals",100,100
+2013,02900000,Sutton,,,"Level 2","One or more schools in the district classified into Level 2",60,58
+2013,02910000,Swampscott,,,"Level 2","One or more schools in the district classified into Level 2",76,73
+2013,02920000,Swansea,,,"Level 2","One or more schools in the district classified into Level 2",82,80
+2013,02930000,Taunton,,,"Level 3","One or more schools in the district classified into Level 3",43,45
+2013,02950000,Tewksbury,,,"Level 2","One or more schools in the district classified into Level 2",73,65
+2013,02960000,Tisbury,82,,"Level 1","Meeting gap narrowing goals",90,88
+2013,02980000,Topsfield,,,"Level 2","One or more schools in the district classified into Level 2",81,66
+2013,03000000,Truro,73,,"Level 2","Not meeting gap narrowing goals",69,
+2013,03010000,Tyngsborough,,,"Level 2","One or more schools in the district classified into Level 2",80,69
+2013,03040000,Uxbridge,,,"Level 2","One or more schools in the district classified into Level 2",50,43
+2013,03050000,Wakefield,,,"Level 2","One or more schools in the district classified into Level 2",61,54
+2013,03060000,Wales,71,,"Level 1","Meeting gap narrowing goals",91,99
+2013,03070000,Walpole,,,"Level 2","One or more schools in the district classified into Level 2",77,72
+2013,03080000,Waltham,,,"Level 3","One or more schools in the district classified into Level 3",65,60
+2013,03090000,Ware,,,"Level 3","One or more schools in the district classified into Level 3",56,58
+2013,03100000,Wareham,,,"Level 3","One or more schools in the district classified into Level 3",44,45
+2013,03140000,Watertown,,,"Level 2","One or more schools in the district classified into Level 2",49,52
+2013,03150000,Wayland,,,"Level 2","One or more schools in the district classified into Level 2",99,79
+2013,03160000,Webster,,,"Level 3","One or more schools in the district classified into Level 3",34,35
+2013,03170000,Wellesley,,,"Level 2","One or more schools in the district classified into Level 2",95,63
+2013,03180000,Wellfleet,79,,"Level 1","Meeting gap narrowing goals",85,
+2013,03210000,Westborough,,,"Level 2","One or more schools in the district classified into Level 2",90,80
+2013,03220000,"West Boylston",,,"Level 2","One or more schools in the district classified into Level 2",63,58
+2013,03230000,"West Bridgewater",,,"Level 2","One or more schools in the district classified into Level 2",75,66
+2013,03250000,Westfield,,,"Level 3","One or more schools in the district classified into Level 3",62,59
+2013,03260000,Westford,,,"Level 2","One or more schools in the district classified into Level 2",100,78
+2013,03270000,Westhampton,88,,"Level 1","Meeting gap narrowing goals",96,
+2013,03300000,Weston,,,"Level 1","One or more schools in the district classified into Level 1",100,84
+2013,03310000,Westport,,,"Level 2","One or more schools in the district classified into Level 2",58,61
+2013,03320000,"West Springfield",,,"Level 3","One or more schools in the district classified into Level 3",66,67
+2013,03350000,Westwood,,,"Level 2","One or more schools in the district classified into Level 2",97,73
+2013,03360000,Weymouth,,,"Level 3","One or more schools in the district classified into Level 3",43,45
+2013,03370000,Whately,59,,"Level 2","Not meeting gap narrowing goals",68,
+2013,03400000,Williamsburg,68,,"Level 2","Not meeting gap narrowing goals",60,
+2013,03410000,Williamstown,79,,"Level 2","Not meeting gap narrowing goals",75,56
+2013,03420000,Wilmington,,,"Level 2","One or more schools in the district classified into Level 2",56,46
+2013,03430000,Winchendon,,,"Level 3","One or more schools in the district classified into Level 3",52,54
+2013,03440000,Winchester,,,"Level 2","One or more schools in the district classified into Level 2",98,81
+2013,03460000,Winthrop,,,"Level 2","One or more schools in the district classified into Level 2",68,59
+2013,03470000,Woburn,,,"Level 2","One or more schools in the district classified into Level 2",54,51
+2013,03480000,Worcester,,,"Level 4","One or more schools in the district classified into Level 4",56,55
+2013,03500000,Wrentham,,,"Level 2","One or more schools in the district classified into Level 2",87,62
+2013,04060000,"Northampton-Smith Vocational Agricultural",24,,"Level 1","Meeting gap narrowing goals",92,90
+2013,04070000,"Dudley Street Neighborhood Charter School (District)",,,"Insufficient data",,,
+2013,04090000,"Alma del Mar Charter School (District)",,,"Insufficient data",,,
+2013,04100000,"Excel Academy Charter (District)",97,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04110000,"Boston Green Academy Horace Mann Charter School (District)",,,"Insufficient data",,,
+2013,04120000,"Academy Of the Pacific Rim Charter Public (District)",68,,"Level 2","Not meeting gap narrowing goals",71,64
+2013,04130000,"Four Rivers Charter Public (District)",75,,"Level 1","Meeting gap narrowing goals",75,92
+2013,04140000,"Berkshire Arts and Technology Charter Public (District)",51,,"Level 1","Meeting gap narrowing goals",92,91
+2013,04150000,"Amesbury Academy Charter Public (District)",,,"Insufficient data",,,
+2013,04160000,"Boston Preparatory Charter Public (District)",59,,"Level 1","Meeting gap narrowing goals",78,84
+2013,04170000,"Bridge Boston Charter School (District)",,,"Insufficient data",,,
+2013,04180000,"Christa McAuliffe Regional Charter Public (District)",65,,"Level 2","Not meeting gap narrowing goals",89,65
+2013,04190000,"Smith Leadership Academy Charter Public (District)",30,,"Level 1","Meeting gap narrowing goals",85,87
+2013,04200000,"Benjamin Banneker Charter Public (District)",34,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04240000,"Boston Day and Evening Academy Charter (District)",,,"Level 3","Persistently low graduation rate for one or more groups",70,
+2013,04260000,"Community Day Charter Public School - Gateway (District)",,,"Insufficient data",,,
+2013,04270000,"Barnstable Community Horace Mann Charter Public (District)",,,"Level 2","Not meeting gap narrowing goals",49,
+2013,04280000,"Edward Brooke Charter (District)",97,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04290000,"KIPP Academy Lynn Charter (District)",44,,"Level 2","Not meeting gap narrowing goals",74,79
+2013,04300000,"Advanced Math and Science Academy Charter (District)",98,,"Level 1","Meeting gap narrowing goals",100,92
+2013,04310000,"Community Day Charter Public School - R. Kingman Webster (District)",,,"Insufficient data",,,
+2013,04320000,"Cape Cod Lighthouse Charter (District)",67,,"Level 2","Not meeting gap narrowing goals",52,51
+2013,04350000,"Innovation Academy Charter (District)",58,,"Level 2","Not meeting gap narrowing goals",68,74
+2013,04360000,"Community Charter School of Cambridge (District)",65,,"Level 1","Meeting gap narrowing goals",86,92
+2013,04370000,"City On A Hill Charter Public (District)",50,,"Level 1","Meeting gap narrowing goals",78,83
+2013,04380000,"Codman Academy Charter Public (District)",45,,"Level 1","Meeting gap narrowing goals",77,
+2013,04390000,"Conservatory Lab Charter (District)",56,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04400000,"Community Day Charter Public School - Prospect (District)",95,,"Level 1","Meeting gap narrowing goals",98,100
+2013,04410000,"Sabis International Charter (District)",35,,"Level 2","Not meeting gap narrowing goals",67,66
+2013,04430000,"Edward W. Brooke Charter School 2 (District)",,,"Insufficient data",,,
+2013,04440000,"Neighborhood House Charter (District)",75,,"Level 1","Meeting gap narrowing goals",95,99
+2013,04450000,"Abby Kelley Foster Charter Public (District)",34,,"Level 1","Meeting gap narrowing goals",89,88
+2013,04460000,"Foxborough Regional Charter (District)",61,,"Level 2","Not meeting gap narrowing goals",81,67
+2013,04470000,"Benjamin Franklin Classical Charter Public (District)",89,,"Level 1","Meeting gap narrowing goals",93,
+2013,04480000,"Gloucester Community Arts Charter (District)",,,,,,
+2013,04490000,"Boston Collegiate Charter (District)",78,,"Level 1","Meeting gap narrowing goals",87,78
+2013,04500000,"Hilltown Cooperative Charter  Public (District)",89,,"Level 2","Not meeting gap narrowing goals",97,74
+2013,04520000,"Edward M. Kennedy Academy for Health Careers (Horace Mann Charter School)",32,,"Level 1","Meeting gap narrowing goals",84,86
+2013,04530000,"Holyoke Community Charter (District)",33,,"Level 2","Not meeting gap narrowing goals",73,70
+2013,04540000,"Lawrence Family Development Charter (District)",72,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04550000,"Hill View Montessori Charter Public (District)",65,,"Level 1","Meeting gap narrowing goals",77,80
+2013,04560000,"Lowell Community Charter Public (District)",30,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04570000,"Edward W. Brooke Charter School 3 (District)",,,"Insufficient data",,,
+2013,04580000,"Lowell Middlesex Academy Charter (District)",,,"Insufficient data",,,
+2013,04590000,"Excel Academy Charter School - Boston II (District)",,,"Insufficient data",,,
+2013,04610000,"Excel Academy Charter School - Chelsea (District)",,,"Insufficient data",,,
+2013,04630000,"KIPP Academy Boston Charter School (District)",,,"Insufficient data",,,
+2013,04640000,"Marblehead Community Charter Public (District)",78,,"Level 2","Not meeting gap narrowing goals",92,73
+2013,04650000,"MATCH Community Day Charter Public School (District)",,,"Insufficient data",,,
+2013,04660000,"Martha's Vineyard Charter (District)",72,,"Level 2","Not meeting gap narrowing goals",73,61
+2013,04670000,"Salem Community Charter School (District)",,,"Insufficient data",,,
+2013,04680000,"Ma Academy for Math and Science",,,"Insufficient data",,,
+2013,04690000,"MATCH Charter Public School (District)",72,,"Level 1","Meeting gap narrowing goals",79,84
+2013,04700000,"Mystic Valley Regional Charter (District)",70,,"Level 1","Meeting gap narrowing goals",81,78
+2013,04710000,"New Leadership Charter (District)",8,,"Level 3","Among lowest performing 20% of schools and subgroups",53,48
+2013,04740000,"North Central Charter Essential (District)",41,,"Level 1","Meeting gap narrowing goals",88,91
+2013,04750000,"Dorchester Collegiate Academy Charter (District)",23,,"Level 2","Not meeting gap narrowing goals",73,
+2013,04760000,"Spirit of Knowledge Charter School (District)",,,"Insufficient data",,,
+2013,04770000,"Silver Hill Horace Mann Charter (District)",33,,"Level 1","Meeting gap narrowing goals",100,89
+2013,04780000,"Francis W. Parker Charter Essential (District)",74,,"Level 2","Not meeting gap narrowing goals",70,61
+2013,04790000,"Pioneer Valley Performing Arts Charter Public (District)",53,,"Level 2","Not meeting gap narrowing goals",64,68
+2013,04800000,"UP Academy Charter School of Boston (District)",32,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04810000,"Boston Renaissance Charter Public (District)",19,,"Level 3","Among lowest performing 20% of schools",69,70
+2013,04820000,"River Valley Charter (District)",77,,"Level 1","Meeting gap narrowing goals",83,
+2013,04830000,"Rising Tide Charter Public (District)",89,,"Level 2","Not meeting gap narrowing goals",83,58
+2013,04840000,"Roxbury Preparatory Charter (District)",57,,"Level 2","Not meeting gap narrowing goals",60,76
+2013,04850000,"Salem Academy Charter (District)",63,,"Level 1","Meeting gap narrowing goals",92,87
+2013,04860000,"Seven Hills Charter Public (District)",30,,"Level 1","Meeting gap narrowing goals",88,89
+2013,04870000,"Prospect Hill Academy Charter (District)",36,,"Level 1","Meeting gap narrowing goals",80,75
+2013,04880000,"South Shore Charter Public (District)",83,,"Level 1","Meeting gap narrowing goals",95,87
+2013,04890000,"Sturgis Charter Public (District)",93,,"Level 1","Meeting gap narrowing goals",100,
+2013,04910000,"Atlantis Charter (District)",63,,"Level 1","Meeting gap narrowing goals",75,79
+2013,04920000,"Martin Luther King Jr. Charter School of Excellence (District)",11,,"Level 3","Among lowest performing 20% of schools",76,73
+2013,04930000,"Phoenix Charter Academy (District)",,,"Level 3","Persistently low graduation rate for one or more groups",60,
+2013,04940000,"Pioneer Charter School of Science (District)",96,,"Level 1","Meeting gap narrowing goals",100,100
+2013,04960000,"Global Learning Charter Public  (District)",13,,"Level 3","Among lowest performing 20% of schools",46,46
+2013,04970000,"Pioneer Valley Chinese Immersion Charter(District)",94,,"Level 1","Meeting gap narrowing goals",98,
+2013,04980000,"Veritas Preparatory Charter School (District)",,,"Insufficient data",,,
+2013,04990000,"Hampden Charter School of Science (District)",49,,"Level 1","Meeting gap narrowing goals",93,92
+2013,06000000,Acton-Boxborough,,,"Level 2","One or more schools in the district classified into Level 2",95,76
+2013,06030000,Adams-Cheshire,,,"Level 3","One or more schools in the district classified into Level 3",48,41
+2013,06050000,Amherst-Pelham,,,"Level 2","One or more schools in the district classified into Level 2",64,54
+2013,06100000,Ashburnham-Westminster,,,"Level 2","One or more schools in the district classified into Level 2",61,66
+2013,06150000,Athol-Royalston,,,"Level 4","One or more schools in the district classified into Level 4",41,41
+2013,06160000,"Ayer Shirley School District",,,"Level 2","One or more schools in the district classified into Level 2",59,63
+2013,06180000,"Berkshire Hills",,,"Level 2","One or more schools in the district classified into Level 2",67,66
+2013,06200000,Berlin-Boylston,91,,"Level 2","Not meeting gap narrowing goals",82,68
+2013,06220000,Blackstone-Millville,,,"Level 2","One or more schools in the district classified into Level 2",62,54
+2013,06250000,Bridgewater-Raynham,,,"Level 2","One or more schools in the district classified into Level 2",71,64
+2013,06320000,Chesterfield-Goshen,64,,"Level 1","Meeting gap narrowing goals",85,
+2013,06350000,"Central Berkshire",,,"Level 2","One or more schools in the district classified into Level 2",64,54
+2013,06400000,Concord-Carlisle,84,,"Level 2","Not meeting gap narrowing goals",87,74
+2013,06450000,Dennis-Yarmouth,,,"Level 3","One or more schools in the district classified into Level 3",46,49
+2013,06500000,Dighton-Rehoboth,,,"Level 2","One or more schools in the district classified into Level 2",65,65
+2013,06550000,Dover-Sherborn,,,"Level 2","One or more schools in the district classified into Level 2",100,85
+2013,06580000,"Dudley-Charlton Reg",,,"Level 2","One or more schools in the district classified into Level 2",64,55
+2013,06600000,Nauset,,,"Level 2","One or more schools in the district classified into Level 2",71,65
+2013,06620000,"Farmington River Reg",37,,"Level 2","Not meeting gap narrowing goals",57,49
+2013,06650000,Freetown-Lakeville,,,"Level 2","One or more schools in the district classified into Level 2",77,67
+2013,06700000,Frontier,39,,"Level 2","Not meeting gap narrowing goals",65,53
+2013,06720000,Gateway,,,"Level 3","One or more schools in the district classified into Level 3",65,49
+2013,06730000,Groton-Dunstable,,,"Level 2","One or more schools in the district classified into Level 2",92,61
+2013,06740000,Gill-Montague,,,"Level 3","One or more schools in the district classified into Level 3",63,55
+2013,06750000,Hamilton-Wenham,,,"Level 2","One or more schools in the district classified into Level 2",84,55
+2013,06800000,Hampden-Wilbraham,,,"Level 2","One or more schools in the district classified into Level 2",61,51
+2013,06830000,Hampshire,77,,"Level 2","Not meeting gap narrowing goals",82,72
+2013,06850000,Hawlemont,24,,"Level 2","Not meeting gap narrowing goals",50,35
+2013,06900000,"King Philip",,,"Level 2","One or more schools in the district classified into Level 2",73,69
+2013,06950000,Lincoln-Sudbury,87,,"Level 2","Not meeting gap narrowing goals",96,75
+2013,06980000,"Manchester Essex Regional",,,"Level 2","One or more schools in the district classified into Level 2",98,84
+2013,07000000,"Marthas Vineyard",49,,"Level 2","Not meeting gap narrowing goals",74,68
+2013,07050000,Masconomet,,,"Level 2","One or more schools in the district classified into Level 2",95,75
+2013,07100000,Mendon-Upton,,,"Level 3","One or more schools in the district classified into Level 3",76,62
+2013,07120000,"Monomoy Regional School District",,,"Level 2","One or more schools in the district classified into Level 2",57,60
+2013,07150000,"Mount Greylock",87,,"Level 1","Meeting gap narrowing goals",88,79
+2013,07170000,"Mohawk Trail",,,"Level 2","One or more schools in the district classified into Level 2",64,63
+2013,07200000,Narragansett,,,"Level 3","One or more schools in the district classified into Level 3",65,76
+2013,07250000,Nashoba,,,"Level 2","One or more schools in the district classified into Level 2",76,63
+2013,07280000,"New Salem-Wendell",70,,"Level 2","Not meeting gap narrowing goals",68,56
+2013,07300000,Northboro-Southboro,92,,"Level 2","Low MCAS participation (Less than 95%)",100,95
+2013,07350000,"North Middlesex",,,"Level 2","One or more schools in the district classified into Level 2",53,47
+2013,07400000,"Old Rochester",,,"Level 2","One or more schools in the district classified into Level 2",76,64
+2013,07450000,Pentucket,,,"Level 2","One or more schools in the district classified into Level 2",57,51
+2013,07500000,"Pioneer Valley",,,"Level 2","One or more schools in the district classified into Level 2",62,56
+2013,07530000,Quabbin,,,"Level 2","One or more schools in the district classified into Level 2",72,68
+2013,07550000,"Ralph C Mahar",,,"Level 2","One or more schools in the district classified into Level 2",65,63
+2013,07600000,"Silver Lake",,,"Level 2","One or more schools in the district classified into Level 2",78,75
+2013,07630000,"Somerset Berkley Regional School District",75,,"Level 1","Meeting gap narrowing goals",90,81
+2013,07650000,"Southern Berkshire",,,"Level 2","One or more schools in the district classified into Level 2",66,71
+2013,07660000,"Southwick-Tolland-Granville Regional School District",,,"Level 2","One or more schools in the district classified into Level 2",49,54
+2013,07670000,"Spencer-E Brookfield",,,"Level 3","One or more schools in the district classified into Level 3",52,55
+2013,07700000,Tantasqua,,,"Level 2","One or more schools in the district classified into Level 2",60,60
+2013,07730000,Triton,,,"Level 2","One or more schools in the district classified into Level 2",64,49
+2013,07740000,"Up-Island Regional",,,"Level 1","One or more schools in the district classified into Level 1",72,82
+2013,07750000,Wachusett,,,"Level 2","One or more schools in the district classified into Level 2",73,61
+2013,07780000,"Quaboag Regional",,,"Level 2","One or more schools in the district classified into Level 2",71,66
+2013,07800000,Whitman-Hanson,,,"Level 2","One or more schools in the district classified into Level 2",56,61
+2013,08010000,"Assabet Valley Regional Vocational Technical",39,,"Level 1","Meeting gap narrowing goals",83,75
+2013,08050000,"Blackstone Valley Regional Vocational Technical",79,,"Level 1","Meeting gap narrowing goals",100,100
+2013,08060000,"Blue Hills Regional Vocational Technical",51,,"Level 1","Meeting gap narrowing goals",95,88
+2013,08100000,"Bristol-Plymouth Regional Vocational Technical",52,,"Level 1","Meeting gap narrowing goals",97,99
+2013,08150000,"Cape Cod Regional Vocational Technical",33,,"Level 1","Meeting gap narrowing goals",77,83
+2013,08180000,"Franklin County Regional Vocational Technical",21,,"Level 2","Not meeting gap narrowing goals",75,74
+2013,08210000,"Greater Fall River Regional Vocational Technical",36,,"Level 1","Meeting gap narrowing goals",84,79
+2013,08230000,"Greater Lawrence Regional Vocational Technical",14,,"Level 3","Among lowest performing 20% of schools",76,78
+2013,08250000,"Greater New Bedford Regional Vocational Technical",26,,"Level 1","Meeting gap narrowing goals",83,82
+2013,08280000,"Greater Lowell Regional Vocational Technical",22,,"Level 1","Meeting gap narrowing goals",80,82
+2013,08290000,"South Middlesex Regional Vocational Technical",25,,"Level 2","Not meeting gap narrowing goals",77,72
+2013,08300000,"Minuteman Regional Vocational Technical",32,,"Level 2","Not meeting gap narrowing goals",80,74
+2013,08320000,"Montachusett Regional Vocational Technical",50,,"Level 1","Meeting gap narrowing goals",83,76
+2013,08510000,"Northern Berkshire Regional Vocational Technical",32,,"Level 2","Not meeting gap narrowing goals",72,66
+2013,08520000,"Nashoba Valley Regional Vocational Technical",43,,"Level 1","Meeting gap narrowing goals",80,88
+2013,08530000,"Northeast Metropolitan Regional Vocational Technical",33,,"Level 1","Meeting gap narrowing goals",89,83
+2013,08540000,"North Shore Regional Vocational Technical",57,,"Level 1","Meeting gap narrowing goals",94,90
+2013,08550000,"Old Colony Regional Vocational Technical",54,,"Level 1","Meeting gap narrowing goals",100,95
+2013,08600000,"Pathfinder Regional Vocational Technical",19,,"Level 3","Among lowest performing 20% of schools",74,78
+2013,08710000,"Shawsheen Valley Regional Vocational Technical",85,,"Level 1","Meeting gap narrowing goals",100,100
+2013,08720000,"Southeastern Regional Vocational Technical",19,,"Level 3","Among lowest performing 20% of schools",95,88
+2013,08730000,"South Shore Regional Vocational Technical",41,,"Level 1","Meeting gap narrowing goals",86,80
+2013,08760000,"Southern Worcester County Regional Vocational Technical",49,,"Level 1","Meeting gap narrowing goals",93,88
+2013,08780000,"Tri County Regional Vocational Technical",48,,"Level 1","Meeting gap narrowing goals",91,83
+2013,08790000,"Upper Cape Cod Regional Vocational Technical",52,,"Level 1","Meeting gap narrowing goals",98,95
+2013,08850000,"Whittier Regional Vocational Technical",58,,"Level 1","Meeting gap narrowing goals",93,84
+2013,09100000,"Bristol County Agricultural",79,,"Level 1","Meeting gap narrowing goals",99,
+2013,09130000,"Essex Agricultural Technical",81,,"Level 1","Meeting gap narrowing goals",100,90
+2013,09150000,"Norfolk County Agricultural",66,,"Level 1","Meeting gap narrowing goals",90,

@@ -1,0 +1,16 @@
+"Item Analysis File Layout",
+,
+Field,Discription
+grade,"03-10, HS (grades 9 and 10 science only)"
+subject,"SCI=science (grades 5, 8)"
+,"BIO=biology (high school)"
+,"CHE=chemistry (high school)"
+,"PHY=physics (high school)"
+,"TEC=technology/engineering (high school)"
+tested,"# of students taking the standard test"
+wptopdev,"Writing prompt, topic development average score (grades 4, 7, 10)"
+wpconvent,"Writing prompt, English conventions average score (grades 4, 7, 10)"
+"items 1-45","Percent of students answering the item correctly (multiple choice)"
+,"Average item score (short answer or open response)"
+,
+"Note: data are suppressed if number of students tested is fewer than 10. ",

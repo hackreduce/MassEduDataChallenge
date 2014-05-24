@@ -1,0 +1,813 @@
+"Grade Levels by District Report",,,
+"District Code",District,"School Level Description","Number of Schools"
+00010000,Abington,Elementary,3
+00010000,Abington,"Middle/Junior High",1
+00010000,Abington,Secondary,1
+00020000,Acton,Elementary,5
+00030000,Acushnet,Elementary,1
+00030000,Acushnet,"Middle/Junior High",1
+00050000,Agawam,Elementary,5
+00050000,Agawam,"Middle/Junior High",2
+00050000,Agawam,Secondary,1
+00070000,Amesbury,Elementary,2
+00070000,Amesbury,"Middle/Junior High",1
+00070000,Amesbury,Secondary,1
+00080000,Amherst,Elementary,3
+00090000,Andover,Elementary,6
+00090000,Andover,"Middle/Junior High",3
+00090000,Andover,Secondary,1
+00100000,Arlington,Elementary,8
+00100000,Arlington,"Middle/Junior High",1
+00100000,Arlington,Secondary,1
+00140000,Ashland,Elementary,3
+00140000,Ashland,"Middle/Junior High",1
+00140000,Ashland,Secondary,1
+00160000,Attleboro,Elementary,6
+00160000,Attleboro,"Middle/Junior High",3
+00160000,Attleboro,Secondary,1
+00170000,Auburn,Elementary,4
+00170000,Auburn,"Middle/Junior High",1
+00170000,Auburn,Secondary,1
+00180000,Avon,Elementary,1
+00180000,Avon,Secondary,1
+00200000,Barnstable,Elementary,5
+00200000,Barnstable,"Middle/Junior High",1
+00200000,Barnstable,Secondary,1
+00230000,Bedford,Elementary,2
+00230000,Bedford,"Middle/Junior High",1
+00230000,Bedford,Secondary,1
+00240000,Belchertown,Elementary,2
+00240000,Belchertown,"Middle/Junior High",2
+00240000,Belchertown,Secondary,1
+00250000,Bellingham,Elementary,4
+00250000,Bellingham,"Middle/Junior High",1
+00250000,Bellingham,Secondary,2
+00260000,Belmont,Elementary,4
+00260000,Belmont,"Middle/Junior High",1
+00260000,Belmont,Secondary,1
+00270000,Berkley,Elementary,1
+00270000,Berkley,"Middle/Junior High",1
+00280000,Berlin,Elementary,1
+00300000,Beverly,Elementary,5
+00300000,Beverly,"Middle/Junior High",1
+00300000,Beverly,Secondary,1
+00310000,Billerica,Elementary,6
+00310000,Billerica,"Middle/Junior High",2
+00310000,Billerica,Secondary,1
+00350000,Boston,Elementary,78
+00350000,Boston,"Middle/Junior High",9
+00350000,Boston,Secondary,31
+00360000,Bourne,Elementary,2
+00360000,Bourne,"Middle/Junior High",1
+00360000,Bourne,Secondary,1
+00370000,Boxborough,Elementary,1
+00380000,Boxford,Elementary,2
+00390000,Boylston,Elementary,1
+00400000,Braintree,Elementary,7
+00400000,Braintree,"Middle/Junior High",2
+00400000,Braintree,Secondary,1
+00410000,Brewster,Elementary,2
+00430000,Brimfield,Elementary,1
+00440000,Brockton,Elementary,13
+00440000,Brockton,"Middle/Junior High",6
+00440000,Brockton,Secondary,5
+00450000,Brookfield,Elementary,1
+00460000,Brookline,Elementary,11
+00460000,Brookline,Secondary,1
+00480000,Burlington,Elementary,4
+00480000,Burlington,"Middle/Junior High",1
+00480000,Burlington,Secondary,1
+00490000,Cambridge,Elementary,12
+00490000,Cambridge,"Middle/Junior High",4
+00490000,Cambridge,Secondary,1
+00500000,Canton,Elementary,4
+00500000,Canton,"Middle/Junior High",1
+00500000,Canton,Secondary,1
+00510000,Carlisle,Elementary,1
+00520000,Carver,Elementary,1
+00520000,Carver,Secondary,1
+00560000,Chelmsford,Elementary,5
+00560000,Chelmsford,"Middle/Junior High",2
+00560000,Chelmsford,Secondary,1
+00570000,Chelsea,Elementary,5
+00570000,Chelsea,"Middle/Junior High",3
+00570000,Chelsea,Secondary,1
+00610000,Chicopee,Elementary,10
+00610000,Chicopee,"Middle/Junior High",2
+00610000,Chicopee,Secondary,3
+00630000,Clarksburg,Elementary,1
+00640000,Clinton,Elementary,1
+00640000,Clinton,"Middle/Junior High",1
+00640000,Clinton,Secondary,1
+00650000,Cohasset,Elementary,2
+00650000,Cohasset,Secondary,1
+00670000,Concord,Elementary,3
+00670000,Concord,"Middle/Junior High",1
+00680000,Conway,Elementary,1
+00710000,Danvers,Elementary,5
+00710000,Danvers,"Middle/Junior High",1
+00710000,Danvers,Secondary,1
+00720000,Dartmouth,Elementary,4
+00720000,Dartmouth,"Middle/Junior High",1
+00720000,Dartmouth,Secondary,1
+00730000,Dedham,Elementary,5
+00730000,Dedham,"Middle/Junior High",1
+00730000,Dedham,Secondary,1
+00740000,Deerfield,Elementary,1
+00770000,Douglas,Elementary,3
+00770000,Douglas,"Middle/Junior High",1
+00770000,Douglas,Secondary,1
+00780000,Dover,Elementary,1
+00790000,Dracut,Elementary,3
+00790000,Dracut,"Middle/Junior High",2
+00790000,Dracut,Secondary,2
+00820000,Duxbury,Elementary,2
+00820000,Duxbury,"Middle/Junior High",1
+00820000,Duxbury,Secondary,1
+00830000,"East Bridgewater",Elementary,1
+00830000,"East Bridgewater","Middle/Junior High",1
+00830000,"East Bridgewater",Secondary,1
+00850000,Eastham,Elementary,1
+00860000,Easthampton,Elementary,3
+00860000,Easthampton,"Middle/Junior High",1
+00860000,Easthampton,Secondary,1
+00870000,"East Longmeadow",Elementary,3
+00870000,"East Longmeadow","Middle/Junior High",1
+00870000,"East Longmeadow",Secondary,1
+00880000,Easton,Elementary,5
+00880000,Easton,"Middle/Junior High",1
+00880000,Easton,Secondary,1
+00890000,Edgartown,Elementary,1
+00910000,Erving,Elementary,1
+00930000,Everett,Elementary,7
+00930000,Everett,Secondary,1
+00930000,Everett,Unassigned,1
+00940000,Fairhaven,Elementary,2
+00940000,Fairhaven,"Middle/Junior High",1
+00940000,Fairhaven,Secondary,1
+00950000,"Fall River",Elementary,10
+00950000,"Fall River","Middle/Junior High",5
+00950000,"Fall River",Secondary,2
+00960000,Falmouth,Elementary,4
+00960000,Falmouth,"Middle/Junior High",2
+00960000,Falmouth,Secondary,1
+00970000,Fitchburg,Elementary,4
+00970000,Fitchburg,"Middle/Junior High",2
+00970000,Fitchburg,Secondary,2
+00980000,Florida,Elementary,1
+00990000,Foxborough,Elementary,3
+00990000,Foxborough,"Middle/Junior High",1
+00990000,Foxborough,Secondary,1
+01000000,Framingham,Elementary,9
+01000000,Framingham,"Middle/Junior High",3
+01000000,Framingham,Secondary,1
+01010000,Franklin,Elementary,7
+01010000,Franklin,"Middle/Junior High",3
+01010000,Franklin,Secondary,1
+01030000,Gardner,Elementary,3
+01030000,Gardner,"Middle/Junior High",1
+01030000,Gardner,Secondary,2
+01050000,Georgetown,Elementary,2
+01050000,Georgetown,"Middle/Junior High",1
+01050000,Georgetown,Secondary,1
+01070000,Gloucester,Elementary,6
+01070000,Gloucester,"Middle/Junior High",1
+01070000,Gloucester,Secondary,1
+01090000,Gosnold,Elementary,1
+01100000,Grafton,Elementary,4
+01100000,Grafton,"Middle/Junior High",1
+01100000,Grafton,Secondary,1
+01110000,Granby,Elementary,2
+01110000,Granby,Secondary,1
+01140000,Greenfield,Elementary,5
+01140000,Greenfield,"Middle/Junior High",1
+01140000,Greenfield,Secondary,1
+01170000,Hadley,Elementary,1
+01170000,Hadley,Secondary,1
+01180000,Halifax,Elementary,1
+01210000,Hancock,Elementary,1
+01220000,Hanover,Elementary,3
+01220000,Hanover,"Middle/Junior High",1
+01220000,Hanover,Secondary,1
+01250000,Harvard,Elementary,1
+01250000,Harvard,Secondary,1
+01270000,Hatfield,Elementary,1
+01270000,Hatfield,Secondary,1
+01280000,Haverhill,Elementary,9
+01280000,Haverhill,"Middle/Junior High",4
+01280000,Haverhill,Secondary,3
+01310000,Hingham,Elementary,4
+01310000,Hingham,"Middle/Junior High",1
+01310000,Hingham,Secondary,1
+01330000,Holbrook,Elementary,2
+01330000,Holbrook,Secondary,1
+01350000,Holland,Elementary,1
+01360000,Holliston,Elementary,2
+01360000,Holliston,"Middle/Junior High",1
+01360000,Holliston,Secondary,1
+01370000,Holyoke,Elementary,9
+01370000,Holyoke,Secondary,2
+01380000,Hopedale,Elementary,2
+01380000,Hopedale,Secondary,1
+01390000,Hopkinton,Elementary,4
+01390000,Hopkinton,"Middle/Junior High",1
+01390000,Hopkinton,Secondary,1
+01410000,Hudson,Elementary,3
+01410000,Hudson,"Middle/Junior High",1
+01410000,Hudson,Secondary,1
+01420000,Hull,Elementary,1
+01420000,Hull,"Middle/Junior High",1
+01420000,Hull,Secondary,1
+01440000,Ipswich,Elementary,2
+01440000,Ipswich,"Middle/Junior High",1
+01440000,Ipswich,Secondary,1
+01450000,Kingston,Elementary,2
+01480000,Lanesborough,Elementary,1
+01490000,Lawrence,Elementary,17
+01490000,Lawrence,"Middle/Junior High",6
+01490000,Lawrence,Secondary,9
+01500000,Lee,Elementary,1
+01500000,Lee,Secondary,1
+01510000,Leicester,Elementary,2
+01510000,Leicester,"Middle/Junior High",1
+01510000,Leicester,Secondary,1
+01520000,Lenox,Elementary,1
+01520000,Lenox,Secondary,1
+01530000,Leominster,Elementary,7
+01530000,Leominster,"Middle/Junior High",2
+01530000,Leominster,Secondary,3
+01540000,Leverett,Elementary,1
+01550000,Lexington,Elementary,6
+01550000,Lexington,"Middle/Junior High",2
+01550000,Lexington,Secondary,1
+01570000,Lincoln,Elementary,2
+01570000,Lincoln,"Middle/Junior High",1
+01580000,Littleton,Elementary,2
+01580000,Littleton,"Middle/Junior High",1
+01580000,Littleton,Secondary,1
+01590000,Longmeadow,Elementary,3
+01590000,Longmeadow,"Middle/Junior High",2
+01590000,Longmeadow,Secondary,1
+01600000,Lowell,Elementary,16
+01600000,Lowell,"Middle/Junior High",6
+01600000,Lowell,Secondary,2
+01610000,Ludlow,Elementary,3
+01610000,Ludlow,"Middle/Junior High",1
+01610000,Ludlow,Secondary,1
+01620000,Lunenburg,Elementary,1
+01620000,Lunenburg,"Middle/Junior High",1
+01620000,Lunenburg,Secondary,1
+01630000,Lynn,Elementary,19
+01630000,Lynn,"Middle/Junior High",3
+01630000,Lynn,Secondary,4
+01640000,Lynnfield,Elementary,3
+01640000,Lynnfield,"Middle/Junior High",1
+01640000,Lynnfield,Secondary,1
+01650000,Malden,Elementary,6
+01650000,Malden,Secondary,1
+01670000,Mansfield,Elementary,3
+01670000,Mansfield,"Middle/Junior High",1
+01670000,Mansfield,Secondary,1
+01680000,Marblehead,Elementary,6
+01680000,Marblehead,"Middle/Junior High",1
+01680000,Marblehead,Secondary,1
+01690000,Marion,Elementary,1
+01700000,Marlborough,Elementary,4
+01700000,Marlborough,Secondary,2
+01710000,Marshfield,Elementary,5
+01710000,Marshfield,"Middle/Junior High",1
+01710000,Marshfield,Secondary,1
+01720000,Mashpee,Elementary,2
+01720000,Mashpee,"Middle/Junior High",1
+01720000,Mashpee,Secondary,1
+01730000,Mattapoisett,Elementary,2
+01740000,Maynard,Elementary,1
+01740000,Maynard,"Middle/Junior High",1
+01740000,Maynard,Secondary,1
+01750000,Medfield,Elementary,3
+01750000,Medfield,"Middle/Junior High",1
+01750000,Medfield,Secondary,1
+01760000,Medford,Elementary,4
+01760000,Medford,"Middle/Junior High",2
+01760000,Medford,Secondary,3
+01770000,Medway,Elementary,2
+01770000,Medway,"Middle/Junior High",1
+01770000,Medway,Secondary,1
+01780000,Melrose,Elementary,6
+01780000,Melrose,"Middle/Junior High",1
+01780000,Melrose,Secondary,1
+01810000,Methuen,Elementary,4
+01810000,Methuen,Secondary,1
+01820000,Middleborough,Elementary,3
+01820000,Middleborough,"Middle/Junior High",1
+01820000,Middleborough,Secondary,1
+01840000,Middleton,Elementary,2
+01850000,Milford,Elementary,4
+01850000,Milford,"Middle/Junior High",2
+01850000,Milford,Secondary,1
+01860000,Millbury,Elementary,2
+01860000,Millbury,Secondary,1
+01870000,Millis,Elementary,1
+01870000,Millis,"Middle/Junior High",1
+01870000,Millis,Secondary,1
+01890000,Milton,Elementary,4
+01890000,Milton,"Middle/Junior High",1
+01890000,Milton,Secondary,1
+01910000,Monson,Elementary,1
+01910000,Monson,"Middle/Junior High",1
+01910000,Monson,Secondary,1
+01960000,Nahant,Elementary,1
+01970000,Nantucket,Elementary,1
+01970000,Nantucket,"Middle/Junior High",1
+01970000,Nantucket,Secondary,1
+01980000,Natick,Elementary,5
+01980000,Natick,"Middle/Junior High",2
+01980000,Natick,Secondary,1
+01990000,Needham,Elementary,5
+01990000,Needham,"Middle/Junior High",2
+01990000,Needham,Secondary,1
+02010000,"New Bedford",Elementary,20
+02010000,"New Bedford","Middle/Junior High",3
+02010000,"New Bedford",Secondary,3
+02040000,Newburyport,Elementary,3
+02040000,Newburyport,"Middle/Junior High",1
+02040000,Newburyport,Secondary,1
+02070000,Newton,Elementary,16
+02070000,Newton,"Middle/Junior High",4
+02070000,Newton,Secondary,2
+02080000,Norfolk,Elementary,2
+02090000,"North Adams",Elementary,3
+02090000,"North Adams",Secondary,1
+02100000,Northampton,Elementary,4
+02100000,Northampton,"Middle/Junior High",1
+02100000,Northampton,Secondary,1
+02110000,"North Andover",Elementary,5
+02110000,"North Andover","Middle/Junior High",1
+02110000,"North Andover",Secondary,1
+02120000,"North Attleborough",Elementary,7
+02120000,"North Attleborough","Middle/Junior High",1
+02120000,"North Attleborough",Secondary,1
+02130000,Northborough,Elementary,4
+02130000,Northborough,"Middle/Junior High",1
+02140000,Northbridge,Elementary,2
+02140000,Northbridge,"Middle/Junior High",1
+02140000,Northbridge,Secondary,1
+02150000,"North Brookfield",Elementary,1
+02150000,"North Brookfield",Secondary,1
+02170000,"North Reading",Elementary,3
+02170000,"North Reading","Middle/Junior High",1
+02170000,"North Reading",Secondary,1
+02180000,Norton,Elementary,3
+02180000,Norton,"Middle/Junior High",1
+02180000,Norton,Secondary,1
+02190000,Norwell,Elementary,2
+02190000,Norwell,"Middle/Junior High",1
+02190000,Norwell,Secondary,1
+02200000,Norwood,Elementary,6
+02200000,Norwood,"Middle/Junior High",1
+02200000,Norwood,Secondary,1
+02210000,"Oak Bluffs",Elementary,1
+02230000,Orange,Elementary,2
+02230000,Orange,"Middle/Junior High",1
+02240000,Orleans,Elementary,1
+02260000,Oxford,Elementary,2
+02260000,Oxford,"Middle/Junior High",1
+02260000,Oxford,Secondary,2
+02270000,Palmer,Elementary,1
+02270000,Palmer,"Middle/Junior High",1
+02270000,Palmer,Secondary,1
+02290000,Peabody,Elementary,8
+02290000,Peabody,"Middle/Junior High",1
+02290000,Peabody,Secondary,1
+02300000,Pelham,Elementary,1
+02310000,Pembroke,Elementary,3
+02310000,Pembroke,"Middle/Junior High",1
+02310000,Pembroke,Secondary,1
+02340000,Petersham,Elementary,1
+02360000,Pittsfield,Elementary,8
+02360000,Pittsfield,"Middle/Junior High",2
+02360000,Pittsfield,Secondary,2
+02380000,Plainville,Elementary,2
+02390000,Plymouth,Elementary,9
+02390000,Plymouth,"Middle/Junior High",2
+02390000,Plymouth,Secondary,2
+02400000,Plympton,Elementary,1
+02420000,Provincetown,Other,1
+02430000,Quincy,Elementary,12
+02430000,Quincy,"Middle/Junior High",5
+02430000,Quincy,Secondary,2
+02440000,Randolph,Elementary,4
+02440000,Randolph,"Middle/Junior High",1
+02440000,Randolph,Secondary,1
+02460000,Reading,Elementary,6
+02460000,Reading,"Middle/Junior High",2
+02460000,Reading,Secondary,1
+02480000,Revere,Elementary,6
+02480000,Revere,"Middle/Junior High",3
+02480000,Revere,Secondary,2
+02490000,Richmond,Elementary,1
+02500000,Rochester,Elementary,1
+02510000,Rockland,Elementary,3
+02510000,Rockland,"Middle/Junior High",1
+02510000,Rockland,Secondary,1
+02520000,Rockport,Elementary,1
+02520000,Rockport,"Middle/Junior High",1
+02520000,Rockport,Secondary,1
+02530000,Rowe,Elementary,1
+02580000,Salem,Elementary,8
+02580000,Salem,"Middle/Junior High",1
+02580000,Salem,Secondary,2
+02610000,Sandwich,Elementary,3
+02610000,Sandwich,Secondary,1
+02620000,Saugus,Elementary,5
+02620000,Saugus,"Middle/Junior High",1
+02620000,Saugus,Secondary,1
+02630000,Savoy,Elementary,1
+02640000,Scituate,Elementary,4
+02640000,Scituate,"Middle/Junior High",1
+02640000,Scituate,Secondary,1
+02650000,Seekonk,Elementary,2
+02650000,Seekonk,"Middle/Junior High",1
+02650000,Seekonk,Secondary,1
+02660000,Sharon,Elementary,3
+02660000,Sharon,"Middle/Junior High",1
+02660000,Sharon,Secondary,1
+02690000,Sherborn,Elementary,1
+02710000,Shrewsbury,Elementary,6
+02710000,Shrewsbury,"Middle/Junior High",2
+02710000,Shrewsbury,Secondary,1
+02720000,Shutesbury,Elementary,1
+02730000,Somerset,Elementary,4
+02730000,Somerset,"Middle/Junior High",1
+02740000,Somerville,Elementary,8
+02740000,Somerville,"Middle/Junior High",1
+02740000,Somerville,Secondary,2
+02750000,Southampton,Elementary,1
+02760000,Southborough,Elementary,3
+02760000,Southborough,"Middle/Junior High",1
+02770000,Southbridge,Elementary,3
+02770000,Southbridge,Secondary,1
+02780000,"South Hadley",Elementary,2
+02780000,"South Hadley","Middle/Junior High",1
+02780000,"South Hadley",Secondary,1
+02810000,Springfield,Elementary,33
+02810000,Springfield,"Middle/Junior High",10
+02810000,Springfield,Secondary,11
+02840000,Stoneham,Elementary,4
+02840000,Stoneham,"Middle/Junior High",1
+02840000,Stoneham,Secondary,1
+02850000,Stoughton,Elementary,6
+02850000,Stoughton,"Middle/Junior High",1
+02850000,Stoughton,Secondary,1
+02870000,Sturbridge,Elementary,1
+02880000,Sudbury,Elementary,4
+02880000,Sudbury,"Middle/Junior High",1
+02890000,Sunderland,Elementary,1
+02900000,Sutton,Elementary,2
+02900000,Sutton,"Middle/Junior High",1
+02900000,Sutton,Secondary,1
+02910000,Swampscott,Elementary,3
+02910000,Swampscott,"Middle/Junior High",1
+02910000,Swampscott,Secondary,1
+02920000,Swansea,Elementary,4
+02920000,Swansea,"Middle/Junior High",1
+02920000,Swansea,Secondary,1
+02930000,Taunton,Elementary,8
+02930000,Taunton,"Middle/Junior High",3
+02930000,Taunton,Secondary,2
+02950000,Tewksbury,Elementary,4
+02950000,Tewksbury,"Middle/Junior High",2
+02950000,Tewksbury,Secondary,1
+02960000,Tisbury,Elementary,1
+02980000,Topsfield,Elementary,2
+03000000,Truro,Elementary,1
+03010000,Tyngsborough,Elementary,1
+03010000,Tyngsborough,"Middle/Junior High",1
+03010000,Tyngsborough,Secondary,1
+03040000,Uxbridge,Elementary,1
+03040000,Uxbridge,"Middle/Junior High",2
+03040000,Uxbridge,Secondary,1
+03050000,Wakefield,Elementary,4
+03050000,Wakefield,"Middle/Junior High",1
+03050000,Wakefield,Secondary,1
+03060000,Wales,Elementary,1
+03070000,Walpole,Elementary,5
+03070000,Walpole,"Middle/Junior High",2
+03070000,Walpole,Secondary,1
+03080000,Waltham,Elementary,6
+03080000,Waltham,"Middle/Junior High",2
+03080000,Waltham,Secondary,1
+03090000,Ware,Elementary,1
+03090000,Ware,"Middle/Junior High",1
+03090000,Ware,Secondary,1
+03100000,Wareham,Elementary,3
+03100000,Wareham,"Middle/Junior High",1
+03100000,Wareham,Secondary,3
+03140000,Watertown,Elementary,3
+03140000,Watertown,"Middle/Junior High",1
+03140000,Watertown,Secondary,1
+03150000,Wayland,Elementary,3
+03150000,Wayland,"Middle/Junior High",1
+03150000,Wayland,Secondary,1
+03160000,Webster,Elementary,2
+03160000,Webster,Secondary,1
+03170000,Wellesley,Elementary,7
+03170000,Wellesley,"Middle/Junior High",1
+03170000,Wellesley,Secondary,1
+03180000,Wellfleet,Elementary,1
+03210000,Westborough,Elementary,4
+03210000,Westborough,"Middle/Junior High",1
+03210000,Westborough,Secondary,1
+03220000,"West Boylston",Elementary,1
+03220000,"West Boylston",Secondary,1
+03230000,"West Bridgewater",Elementary,3
+03230000,"West Bridgewater",Secondary,1
+03250000,Westfield,Elementary,8
+03250000,Westfield,"Middle/Junior High",2
+03250000,Westfield,Secondary,2
+03260000,Westford,Elementary,7
+03260000,Westford,"Middle/Junior High",2
+03260000,Westford,Secondary,1
+03270000,Westhampton,Elementary,1
+03300000,Weston,Elementary,3
+03300000,Weston,"Middle/Junior High",1
+03300000,Weston,Secondary,1
+03310000,Westport,Elementary,2
+03310000,Westport,"Middle/Junior High",1
+03310000,Westport,Secondary,1
+03320000,"West Springfield",Elementary,7
+03320000,"West Springfield","Middle/Junior High",1
+03320000,"West Springfield",Secondary,2
+03350000,Westwood,Elementary,6
+03350000,Westwood,"Middle/Junior High",1
+03350000,Westwood,Secondary,1
+03360000,Weymouth,Elementary,9
+03360000,Weymouth,"Middle/Junior High",2
+03360000,Weymouth,Secondary,1
+03370000,Whately,Elementary,1
+03400000,Williamsburg,Elementary,1
+03410000,Williamstown,Elementary,1
+03420000,Wilmington,Elementary,6
+03420000,Wilmington,"Middle/Junior High",1
+03420000,Wilmington,Secondary,1
+03430000,Winchendon,Elementary,3
+03430000,Winchendon,"Middle/Junior High",1
+03430000,Winchendon,Secondary,1
+03440000,Winchester,Elementary,5
+03440000,Winchester,"Middle/Junior High",1
+03440000,Winchester,Secondary,1
+03460000,Winthrop,Elementary,2
+03460000,Winthrop,"Middle/Junior High",1
+03460000,Winthrop,Secondary,1
+03470000,Woburn,Elementary,8
+03470000,Woburn,"Middle/Junior High",2
+03470000,Woburn,Secondary,1
+03480000,Worcester,Elementary,34
+03480000,Worcester,"Middle/Junior High",4
+03480000,Worcester,Secondary,7
+03500000,Wrentham,Elementary,2
+03700000,"Institutional Schools",Other,5
+04060000,"Northampton-Smith Vocational Agricultural",Secondary,1
+04070000,"Dudley Street Neighborhood Charter School (District)",Elementary,1
+04090000,"Alma del Mar Charter School (District)",Elementary,1
+04100000,"Excel Academy Charter (District)","Middle/Junior High",1
+04110000,"Boston Green Academy Horace Mann Charter School (District)",Secondary,1
+04120000,"Academy Of the Pacific Rim Charter Public (District)",Secondary,1
+04130000,"Four Rivers Charter Public (District)",Secondary,1
+04140000,"Berkshire Arts and Technology Charter Public (District)",Secondary,1
+04150000,"Amesbury Academy Charter Public (District)",Secondary,1
+04160000,"Boston Preparatory Charter Public (District)","Middle/Junior High",1
+04170000,"Bridge Boston Charter School (District)",Elementary,1
+04180000,"Christa McAuliffe Regional Charter Public (District)","Middle/Junior High",1
+04190000,"Smith Leadership Academy Charter Public (District)","Middle/Junior High",1
+04200000,"Benjamin Banneker Charter Public (District)",Elementary,1
+04240000,"Boston Day and Evening Academy Charter (District)",Secondary,1
+04260000,"Community Day Charter Public School - Gateway (District)",Elementary,1
+04270000,"Barnstable Community Horace Mann Charter Public (District)",Elementary,1
+04280000,"Brooke Charter School Roslindale (District)","Middle/Junior High",1
+04290000,"KIPP Academy Lynn Charter (District)",Elementary,1
+04300000,"Advanced Math and Science Academy Charter (District)","Middle/Junior High",1
+04310000,"Community Day Charter Public School - R. Kingman Webster (District)",Elementary,1
+04320000,"Cape Cod Lighthouse Charter (District)","Middle/Junior High",1
+04350000,"Innovation Academy Charter (District)","Middle/Junior High",1
+04360000,"Community Charter School of Cambridge (District)",Secondary,1
+04370000,"City On A Hill Charter Public (District)",Secondary,1
+04380000,"Codman Academy Charter Public (District)",Secondary,1
+04390000,"Conservatory Lab Charter (District)",Elementary,1
+04400000,"Community Day Charter Public School - Prospect (District)",Elementary,1
+04410000,"Sabis International Charter (District)",Secondary,1
+04430000,"Brooke Charter School Mattapan (District)",Elementary,1
+04440000,"Neighborhood House Charter (District)",Elementary,1
+04450000,"Abby Kelley Foster Charter Public (District)",Secondary,1
+04460000,"Foxborough Regional Charter (District)",Secondary,1
+04470000,"Benjamin Franklin Classical Charter Public (District)",Elementary,1
+04490000,"Boston Collegiate Charter (District)",Secondary,1
+04500000,"Hilltown Cooperative Charter Public (District)",Elementary,1
+04520000,"Edward M. Kennedy Academy for Health Careers (Horace Mann Charter) (District)",Secondary,1
+04530000,"Holyoke Community Charter (District)",Elementary,1
+04540000,"Lawrence Family Development Charter (District)",Elementary,1
+04550000,"Hill View Montessori Charter Public (District)",Elementary,1
+04560000,"Lowell Community Charter Public (District)",Elementary,1
+04570000,"Brooke Charter School East Boston (District)",Elementary,1
+04580000,"Lowell Middlesex Academy Charter (District)",Secondary,1
+04590000,"Excel Academy Charter School - Boston II (District)",Secondary,1
+04610000,"Excel Academy Charter School - Chelsea (District)",Elementary,1
+04630000,"KIPP Academy Boston Charter School (District)",Elementary,1
+04640000,"Marblehead Community Charter Public (District)","Middle/Junior High",1
+04650000,"MATCH Community Day Charter Public School (District)",Elementary,1
+04660000,"Martha's Vineyard Charter (District)",Secondary,1
+04670000,"Salem Community Charter School (District)",Secondary,1
+04680000,"Ma Academy for Math and Science",Secondary,1
+04690000,"MATCH Charter Public School (District)",Secondary,1
+04700000,"Mystic Valley Regional Charter (District)",Secondary,1
+04740000,"North Central Charter Essential (District)",Secondary,1
+04750000,"Dorchester Collegiate Academy Charter (District)",Secondary,1
+04760000,"Spirit of Knowledge Charter School (District)",Secondary,1
+04770000,"Silver Hill Horace Mann Charter (District)",Elementary,1
+04780000,"Francis W. Parker Charter Essential (District)",Secondary,1
+04790000,"Pioneer Valley Performing Arts Charter Public (District)",Secondary,1
+04800000,"UP Academy Charter School of Boston (District)","Middle/Junior High",1
+04810000,"Boston Renaissance Charter Public (District)",Elementary,1
+04820000,"River Valley Charter (District)",Elementary,1
+04830000,"Rising Tide Charter Public (District)","Middle/Junior High",1
+04840000,"Roxbury Preparatory Charter (District)","Middle/Junior High",1
+04850000,"Salem Academy Charter (District)",Secondary,1
+04860000,"Seven Hills Charter Public (District)",Elementary,1
+04870000,"Prospect Hill Academy Charter (District)",Secondary,1
+04880000,"South Shore Charter Public (District)",Secondary,1
+04890000,"Sturgis Charter Public (District)",Secondary,1
+04910000,"Atlantis Charter (District)",Elementary,1
+04920000,"Martin Luther King Jr. Charter School of Excellence (District)",Elementary,1
+04930000,"Phoenix Charter Academy (District)",Secondary,1
+04940000,"Pioneer Charter School of Science (District)","Middle/Junior High",1
+04960000,"Global Learning Charter Public (District)",Secondary,1
+04970000,"Pioneer Valley Chinese Immersion Charter(District)",Elementary,1
+04980000,"Veritas Preparatory Charter School (District)","Middle/Junior High",1
+04990000,"Hampden Charter School of Science (District)",Secondary,1
+06000000,Acton-Boxborough,"Middle/Junior High",1
+06000000,Acton-Boxborough,Secondary,1
+06030000,Adams-Cheshire,Elementary,2
+06030000,Adams-Cheshire,Secondary,1
+06050000,Amherst-Pelham,"Middle/Junior High",1
+06050000,Amherst-Pelham,Secondary,1
+06100000,Ashburnham-Westminster,Elementary,3
+06100000,Ashburnham-Westminster,"Middle/Junior High",1
+06100000,Ashburnham-Westminster,Secondary,1
+06150000,Athol-Royalston,Elementary,3
+06150000,Athol-Royalston,"Middle/Junior High",1
+06150000,Athol-Royalston,Secondary,1
+06160000,"Ayer Shirley School District",Elementary,2
+06160000,"Ayer Shirley School District","Middle/Junior High",1
+06160000,"Ayer Shirley School District",Secondary,1
+06180000,"Berkshire Hills",Elementary,1
+06180000,"Berkshire Hills","Middle/Junior High",1
+06180000,"Berkshire Hills",Secondary,1
+06200000,Berlin-Boylston,Secondary,1
+06220000,Blackstone-Millville,Elementary,3
+06220000,Blackstone-Millville,"Middle/Junior High",1
+06220000,Blackstone-Millville,Secondary,1
+06250000,Bridgewater-Raynham,Elementary,4
+06250000,Bridgewater-Raynham,"Middle/Junior High",2
+06250000,Bridgewater-Raynham,Secondary,1
+06320000,Chesterfield-Goshen,Elementary,1
+06350000,"Central Berkshire",Elementary,4
+06350000,"Central Berkshire","Middle/Junior High",1
+06350000,"Central Berkshire",Secondary,1
+06400000,Concord-Carlisle,Secondary,1
+06450000,Dennis-Yarmouth,Elementary,4
+06450000,Dennis-Yarmouth,"Middle/Junior High",1
+06450000,Dennis-Yarmouth,Secondary,1
+06500000,Dighton-Rehoboth,Elementary,2
+06500000,Dighton-Rehoboth,"Middle/Junior High",2
+06500000,Dighton-Rehoboth,Secondary,1
+06550000,Dover-Sherborn,"Middle/Junior High",1
+06550000,Dover-Sherborn,Secondary,1
+06580000,"Dudley-Charlton Reg",Elementary,4
+06580000,"Dudley-Charlton Reg","Middle/Junior High",2
+06580000,"Dudley-Charlton Reg",Secondary,1
+06600000,Nauset,"Middle/Junior High",1
+06600000,Nauset,Secondary,1
+06620000,"Farmington River Reg",Elementary,1
+06650000,Freetown-Lakeville,Elementary,3
+06650000,Freetown-Lakeville,"Middle/Junior High",1
+06650000,Freetown-Lakeville,Secondary,1
+06700000,Frontier,Secondary,1
+06720000,Gateway,Elementary,2
+06720000,Gateway,"Middle/Junior High",2
+06720000,Gateway,Secondary,1
+06730000,Groton-Dunstable,Elementary,3
+06730000,Groton-Dunstable,"Middle/Junior High",1
+06730000,Groton-Dunstable,Secondary,1
+06740000,Gill-Montague,Elementary,2
+06740000,Gill-Montague,"Middle/Junior High",1
+06740000,Gill-Montague,Secondary,1
+06750000,Hamilton-Wenham,Elementary,3
+06750000,Hamilton-Wenham,"Middle/Junior High",1
+06750000,Hamilton-Wenham,Secondary,1
+06800000,Hampden-Wilbraham,Elementary,4
+06800000,Hampden-Wilbraham,"Middle/Junior High",2
+06800000,Hampden-Wilbraham,Secondary,1
+06830000,Hampshire,Secondary,1
+06850000,Hawlemont,Elementary,1
+06900000,"King Philip","Middle/Junior High",1
+06900000,"King Philip",Secondary,1
+06950000,Lincoln-Sudbury,Secondary,1
+06980000,"Manchester Essex Regional",Elementary,2
+06980000,"Manchester Essex Regional","Middle/Junior High",1
+06980000,"Manchester Essex Regional",Secondary,1
+07000000,"Martha's Vineyard",Secondary,1
+07050000,Masconomet,"Middle/Junior High",1
+07050000,Masconomet,Secondary,1
+07100000,Mendon-Upton,Elementary,2
+07100000,Mendon-Upton,"Middle/Junior High",1
+07100000,Mendon-Upton,Secondary,1
+07120000,"Monomoy Regional School District",Elementary,2
+07120000,"Monomoy Regional School District","Middle/Junior High",2
+07120000,"Monomoy Regional School District",Secondary,2
+07150000,"Mount Greylock",Secondary,1
+07170000,"Mohawk Trail",Elementary,4
+07170000,"Mohawk Trail",Secondary,1
+07200000,Narragansett,Elementary,3
+07200000,Narragansett,"Middle/Junior High",1
+07200000,Narragansett,Secondary,1
+07250000,Nashoba,Elementary,3
+07250000,Nashoba,"Middle/Junior High",2
+07250000,Nashoba,Secondary,1
+07280000,"New Salem-Wendell",Elementary,1
+07300000,Northboro-Southboro,Secondary,1
+07350000,"North Middlesex",Elementary,4
+07350000,"North Middlesex","Middle/Junior High",2
+07350000,"North Middlesex",Secondary,2
+07400000,"Old Rochester","Middle/Junior High",1
+07400000,"Old Rochester",Secondary,1
+07450000,Pentucket,Elementary,4
+07450000,Pentucket,"Middle/Junior High",1
+07450000,Pentucket,Secondary,1
+07500000,"Pioneer Valley",Elementary,4
+07500000,"Pioneer Valley",Secondary,1
+07530000,Quabbin,Elementary,5
+07530000,Quabbin,"Middle/Junior High",1
+07530000,Quabbin,Secondary,2
+07550000,"Ralph C Mahar",Secondary,3
+07600000,"Silver Lake","Middle/Junior High",1
+07600000,"Silver Lake",Secondary,1
+07630000,"Somerset Berkley Regional School District",Secondary,1
+07650000,"Southern Berkshire",Elementary,4
+07650000,"Southern Berkshire",Secondary,1
+07660000,"Southwick-Tolland-Granville Regional School District",Elementary,2
+07660000,"Southwick-Tolland-Granville Regional School District","Middle/Junior High",1
+07660000,"Southwick-Tolland-Granville Regional School District",Secondary,1
+07670000,"Spencer-E Brookfield",Elementary,3
+07670000,"Spencer-E Brookfield","Middle/Junior High",1
+07670000,"Spencer-E Brookfield",Secondary,1
+07700000,Tantasqua,"Middle/Junior High",1
+07700000,Tantasqua,Secondary,2
+07730000,Triton,Elementary,3
+07730000,Triton,"Middle/Junior High",1
+07730000,Triton,Secondary,1
+07740000,"Up-Island Regional",Elementary,2
+07750000,Wachusett,Elementary,9
+07750000,Wachusett,"Middle/Junior High",3
+07750000,Wachusett,Secondary,1
+07780000,"Quaboag Regional",Elementary,2
+07780000,"Quaboag Regional","Middle/Junior High",1
+07780000,"Quaboag Regional",Secondary,1
+07800000,Whitman-Hanson,Elementary,4
+07800000,Whitman-Hanson,"Middle/Junior High",2
+07800000,Whitman-Hanson,Secondary,1
+08010000,"Assabet Valley Regional Vocational Technical",Secondary,1
+08050000,"Blackstone Valley Regional Vocational Technical",Secondary,1
+08060000,"Blue Hills Regional Vocational Technical",Secondary,1
+08100000,"Bristol-Plymouth Regional Vocational Technical",Secondary,1
+08150000,"Cape Cod Regional Vocational Technical",Secondary,1
+08180000,"Franklin County Regional Vocational Technical",Secondary,1
+08210000,"Greater Fall River Regional Vocational Technical",Secondary,1
+08230000,"Greater Lawrence Regional Vocational Technical",Secondary,1
+08250000,"Greater New Bedford Regional Vocational Technical",Secondary,1
+08280000,"Greater Lowell Regional Vocational Technical",Secondary,1
+08290000,"South Middlesex Regional Vocational Technical",Secondary,1
+08300000,"Minuteman Regional Vocational Technical",Secondary,1
+08320000,"Montachusett Regional Vocational Technical",Secondary,1
+08510000,"Northern Berkshire Regional Vocational Technical",Secondary,1
+08520000,"Nashoba Valley Regional Vocational Technical",Secondary,1
+08530000,"Northeast Metropolitan Regional Vocational Technical",Secondary,1
+08540000,"North Shore Regional Vocational Technical",Secondary,1
+08550000,"Old Colony Regional Vocational Technical",Secondary,1
+08600000,"Pathfinder Regional Vocational Technical",Secondary,1
+08710000,"Shawsheen Valley Regional Vocational Technical",Secondary,1
+08720000,"Southeastern Regional Vocational Technical",Secondary,1
+08730000,"South Shore Regional Vocational Technical",Secondary,1
+08760000,"Southern Worcester County Regional Vocational Technical",Secondary,1
+08780000,"Tri County Regional Vocational Technical",Secondary,1
+08790000,"Upper Cape Cod Regional Vocational Technical",Secondary,1
+08850000,"Whittier Regional Vocational Technical",Secondary,1
+09100000,"Bristol County Agricultural",Secondary,1
+09130000,"Essex Agricultural Technical",Secondary,1
+09150000,"Norfolk County Agricultural",Secondary,1
+35010000,"Paulo Freire Social Justice Charter School (District)",Secondary,1
+35020000,"Baystate Academy Charter Public School (District)",Secondary,1
+35030000,"Lowell Collegiate Charter School (District)",Elementary,1
+35040000,"City on a Hill Charter Public School II (District)",Secondary,1
+35050000,"UP Academy Charter School of Dorchester (District)",Secondary,1
+35060000,"Pioneer Charter School of Science II (PCSS-II) (District)",Secondary,1
+39010000,"Massachusetts Virtual Academy at Greenfield Commonwealth Virtual District",Unassigned,1
